@@ -1,0 +1,20 @@
+.standing_tables {
+  table-layout: fixed;
+  border-collapse: collapse;
+  
+  th { text-decoration: underline; }
+  th, td {
+    padding: 5px;
+    text-align: left;
+  }
+  
+  thead {
+    background-color: #333;
+    color: #FFFFFF;
+  }
+  tbody {
+    tr:nth-child(even) {
+      background-color: #DDD;
+    }
+  }
+}
