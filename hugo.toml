@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'LEGACYLIGAN'
 theme = 'ananke'
 
-baseURL = "https://gohugo-theme-ananke.pages.dev"
+baseURL = "https://legacyligan.se"
 resourceDir = "../resources"
 
 DefaultContentLanguage = "sv"
