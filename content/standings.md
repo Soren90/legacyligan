@@ -7,7 +7,7 @@ menu:
     weight: 6
 ---
 
-Säsongstart för första iterationen av ligan drar igång **23/05**
+Säsongstart för första iterationen av ligan drar igång **30/05**
  
 ## Säsong 1
 {{< table class="standing_tables" >}}

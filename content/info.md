@@ -20,7 +20,7 @@ Vi har lite tröstpriser, top8priser och annat som vi återkommer med längre fr
 Länge har vi skôjat om legacygibb på hemmaplan med hårdare rule-enforcementlevel med något på spel, som även är statsad osv osv osv osv osv. Till slut tog gemenskapen saken i egna händer och tillsammans har vi skapat... ptja, ett slags nav där vi kan samla våra minnen, tankar och helt enkelt försöka förmedla känslan iom legacycontent på svenska är minst sagt glest.
 
 ### när
-18.30 var fjärde vecka med kickoff **23/5**
+18.30 var fjärde vecka med kickoff **30/5**
 
 ### var 
 Alara Games spelbutik, andra våning.
