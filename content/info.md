@@ -50,7 +50,7 @@ Trollhättan. Föreningsgatan 16.
 ### hur
 100kr köper dig 3 rundor spel och cashen går oavkortat direkt in i prissupporten.
 
-Mer info? Se *[standings](www.legacyligan.se/standings)* 
+Mer info? Se *[standings](https://legacyligan.se/standings)* 
 
 
 
