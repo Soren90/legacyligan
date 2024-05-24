@@ -7,30 +7,58 @@ menu:
     weight: 6
 ---
 
-### Förstapris säsong #1 - Underground Sea!
-{{< figure src="/images/forstapris.png" >}}
+### Förstapris säsong #1 - Tundra!
+<sup><sub>(Inte den här goe Tundran.)</sub></sup>
+{{< figure src="/images/tundra.png" >}}
+
 
 ### Andrapris säsong #1 - 2 Scalding Tarn i retrostuk!
 {{< figure src="/images/andrapris.png" >}}
 
+
 ### Bara första och andrapris?
-Vi har lite tröstpriser, top8priser och annat som vi återkommer med längre fram. 
+Vi har lite tröstpriser, top8priser och annat som vi återkommer med längre fram. Fler spelare = fler priser.
+
+.
+
 
 ### bakgrund
-Länge har vi skôjat om legacygibb på hemmaplan med hårdare rule-enforcementlevel med något på spel, som även är statsad osv osv osv osv osv. Till slut tog gemenskapen saken i egna händer och tillsammans har vi skapat... ptja, ett slags nav där vi kan samla våra minnen, tankar och helt enkelt försöka förmedla känslan iom legacycontent på svenska är minst sagt glest.
+Vi gillar Legacy och vill köra ligaspel. 
+
+Behövs det mer bakgrund? 
+
+Okej... Länge har vi drömt om legacygibb på hemmaplan med striktare rules enforcement level och med något eftertraktat på spel. Till slut tog gemenskapen saken i egna händer och tillsammans har vi skapat… tja, ett slags nav där vi kan samla våra minnen, tankar och helt enkelt försöka förmedla den goa känslan vi har när vi spelar. 
+
+Dessutom är tillgängligheten med Legacycontent på svenska minst sagt glest. Så vi vill finnas här som ett gött alternativ. 
+
+.
 
 ### när
-18.30 var fjärde vecka med kickoff **30/5**
+Säsong 1 kör sista torsdagen i månaden. Maj till Oktober.
+
+30/5, 27/6, 25/7, 29/8, 26/9, 31/10. (+ Slutspel ev. 9/11)
+
+.
 
 ### var 
-Alara Games spelbutik, andra våning.
-Trollhättan
-Föreningsgatan 16
+*[Alara Games](www.alaragames.se)* 
+- 
+Trollhättan. Föreningsgatan 16.  
+
+.
 
 ### hur
-Vi spelar 3 rundor legacy där poäng genereras genom vinster eller oavgjorda matcher. Säsong #1 har vi valt att testköra med 6 omgångar där top8 går till slutspelsfasen. Slutspelet kommer att ske på helg och troligen förmiddag. Vi har slopat det klassiska stuket där deltagande även skulle generera poäng. Vi har försökt att bryta ner det och insett att det inte är helt optimalt. 
+100kr köper dig 3 rundor spel och cashen går oavkortat direkt in i prissupporten.
+
+Mer info? Se *[standings](https://legacyligan.se/standings)* 
+
+
+
+.
 
 ### filosofi 
-don't be douche/gentlemannamagic - dvs REL, fast strikt. dvs inga *takesies-backsies*. 
+REL - Regular. Fast lite striktare.
 
-domarn är på plats varje tillfälle ifall det skulle vara svårt att förstå.
+<sup>(Men inte Competitive, för domarn vill också spela)</sup>
+
+Also: {{< figure src="/images/dont.webp" >}}
