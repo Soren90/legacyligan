@@ -19,6 +19,8 @@ menu:
 ### Bara första och andrapris?
 Vi har lite tröstpriser, top8priser och annat som vi återkommer med längre fram. Fler spelare = fler priser.
 
+.
+
 
 ### bakgrund
 Vi gillar Legacy och vill köra ligaspel. 
@@ -29,30 +31,30 @@ Okej... Länge har vi drömt om legacygibb på hemmaplan med striktare rules enf
 
 Dessutom är tillgängligheten med Legacycontent på svenska minst sagt glest. Så vi vill finnas här som ett gött alternativ. 
 
+.
 
 ### när
 Säsong 1 kör sista torsdagen i månaden. Maj till Oktober.
 
-30/5, 27/6, 25/7, 29/8, 26/9, 31/10.
+30/5, 27/6, 25/7, 29/8, 26/9, 31/10. (+ Slutspel ev. 9/11)
 
+.
 
 ### var 
-*[Alara Games](www.alaragames.se)* i Trollhättan. Föreningsgatan 16.  
+*[Alara Games](www.alaragames.se)* 
+- 
+Trollhättan. Föreningsgatan 16.  
 
+.
 
 ### hur
 100kr köper dig 3 rundor spel och cashen går oavkortat direkt in i prissupporten.
 
-Vinner du en match får du 3 Ligapoäng. Draw = 1 Ligapoäng. 
-
-Närvaro = 0 ligapoäng men gemenskap, passion och stifle i din fetch.
-Top 8 med bäst Ligapoäng går vidare till slutspel (preliminärt 9 november). 
+Mer info? Se *[standings](www.legacyligan.se/standings)* 
 
 
-Om folk har lika många poäng så är tiebreaker = antal närvarotillfällen. 
 
-Om detta också är lika får de spela *[Dandân](https://infinite.tcgplayer.com/article/What-is-Dand%C3%A2n-MTG-s-Forgetful-Fish-Format/7d6590b5-8e78-44f5-92c6-511049676fea/)*
-
+.
 
 ### filosofi 
 REL - Regular. Fast lite striktare.
