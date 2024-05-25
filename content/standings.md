@@ -21,7 +21,7 @@ Draw = 1 Ligapoäng.
 
 .
 
-Top 8 med bäst Ligapoäng går vidare till slutspel (preliminärt 9 november). 
+**Top 8** med bäst Ligapoäng går vidare till slutspel (preliminärt 9 november). 
 
 .
 
@@ -38,7 +38,7 @@ Om detta också är lika får de spela *[Dandân](https://infinite.tcgplayer.com
 {{< table class="standing_tables" >}}
 | ##  | Ligapoäng | Namn | Poäng/v: |   | 1 | 2 | 3 | 4 | 5 | 6 |
 |:-------:|:----------:|------------|-----------|--|--|--|--|--|--|--|
-| 1     | 0         | Nicklas Sörensen | | | 0 |  |  |  |  |  |
+| 1     | 0         | dOcToR dOoMsDaY | | | 0 |  |  |  |  |  |
 | 2     | 0         | Niklas Werner | | | 9 | 9 | 9 | 9 | 9 | 9 |
 | 3     | 0         | Jonis Bader | | | 0 |  |  |  |  |  |
 | 4     | 0         | Jonathan Westergren | |  | 0 |  |  |  |  |  |

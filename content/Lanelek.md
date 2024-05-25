@@ -10,7 +10,7 @@ menu:
 
 
 
-Glid in på discorden och ~~tigg~~ fråga. Vi hjälper dig.
+Glid in på discorden och ~~tigg~~ fråga. Finns gott om lekar. Vi hjälper dig.
 
 {{< figure src="/images/lanalek.jpeg" >}}
 
