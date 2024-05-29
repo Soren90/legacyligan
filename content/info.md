@@ -8,16 +8,18 @@ menu:
 ---
 
 ### Förstapris säsong #1 - Tundra!
-<sup><sub>(Inte den här goe Tundran.)</sub></sup>
+##### (Inte den här goe Tundran.)
 {{< figure src="/images/tundra.png" >}}
 
+
+.
 
 ### Andrapris säsong #1 - 2 Scalding Tarn i retrostuk!
 {{< figure src="/images/andrapris.png" >}}
 
 
 ### Bara första och andrapris?
-Vi har lite tröstpriser, top8priser och annat som vi återkommer med längre fram. Fler spelare = fler priser.
+Vi har lite tröstpriser, top8priser, top9pris, signerade bilder och annat gött som vi återkommer med längre fram. **Fler spelare = fler priser**.
 
 .
 
@@ -41,13 +43,16 @@ Säsong 1 kör sista torsdagen i månaden. Maj till Oktober.
 .
 
 ### var 
-*[Alara Games](www.alaragames.se)* 
+[Alara Games](https://www.alaragames.se)
 - 
 Trollhättan. Föreningsgatan 16.  
 
 .
 
+
+
 ### hur
+
 100kr köper dig 3 rundor spel och cashen går oavkortat direkt in i prissupporten.
 
 Mer info? Se *[standings](https://legacyligan.se/standings)* 
@@ -57,8 +62,6 @@ Mer info? Se *[standings](https://legacyligan.se/standings)*
 .
 
 ### filosofi 
-REL - Regular. Fast lite striktare.
-
-<sup>(Men inte Competitive, för domarn vill också spela)</sup>
-
+REL - Regular. Fast lite striktare. 
+###### (Men inte Competitive, för domarn vill också spela.)
 Also: {{< figure src="/images/dont.webp" >}}
