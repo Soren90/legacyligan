@@ -25,13 +25,13 @@ Vi har lite tröstpriser, top8priser, top9pris, signerade bilder och annat gött
 
 
 ### bakgrund
-Vi gillar Legacy och vill köra ligaspel. 
+Vi gillar legacy och vill köra ligaspel. 
 
 Behövs det mer bakgrund? 
 
 Okej... Länge har vi drömt om legacygibb på hemmaplan med striktare rules enforcement level och med något eftertraktat på spel. Till slut tog gemenskapen saken i egna händer och tillsammans har vi skapat… tja, ett slags nav där vi kan samla våra minnen, tankar och helt enkelt försöka förmedla den goa känslan vi har när vi spelar. 
 
-Dessutom är tillgängligheten med Legacycontent på svenska minst sagt glest. Så vi vill finnas här som ett gött alternativ. 
+Dessutom är tillgängligheten med legacycontent på svenska minst sagt glest. Så vi vill finnas här som ett gött alternativ. 
 
 .
 
@@ -53,7 +53,7 @@ Trollhättan. Föreningsgatan 16.
 
 ### hur
 
-100kr köper dig 3 rundor spel och cashen går oavkortat direkt in i prissupporten.
+100kr köper dig 3 rundor spel och cashen går oavkortat direkt till Legacyligan och till prissupporten i våra ligor.
 
 Mer info? Se *[standings](https://legacyligan.se/standings)* 
 
