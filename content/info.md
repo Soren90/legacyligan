@@ -55,6 +55,10 @@ Trollhättan. Föreningsgatan 16.
 
 100kr köper dig 3 rundor spel och cashen går oavkortat direkt till Legacyligan och till prissupporten i våra ligor.
 
+Leklista - Ska in före varje speltillfälle. Foto på leken eller digital lista skickas till legacyligan@gmail.com 
+
+Handskriven lapp går också bra.
+
 Mer info? Se *[standings](https://legacyligan.se/standings)* 
 
 
