@@ -11,7 +11,7 @@ menu:
 
 Kom och spela med oss. Ta med en kompis. 
 
-Ta bilder och lägg upp på insta. Sprid pepp. Var kommentator på streamen.  
+Ta bilder och lägg upp på insta. Sprid pepp. **Var kommentator på streamen.**  
 
 Skänk ett random kort från pärmen till prissupporten.
 

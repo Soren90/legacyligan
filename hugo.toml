@@ -42,16 +42,16 @@ url = "https://www.twitch.tv/legacyligan"
 color = '#6441a4'
 [[params.ananke_socials]]
 name = "twitter"
-url = "https://twitter.com/realDonaldTrump"
+url = "https://twitter.com/legacyligan"
 [[params.ananke_socials]]
 name = "instagram"
 url = "https://www.instagram.com/legacyligan"
 [[params.ananke_socials]]
 name = "youtube"
-url = "https://www.youtube.com/channel/UC6Foavhw7wwhDrOtzsU5hSQ"
+url = "https://www.youtube.com/channel/UCNpnzSbeGiZpvSnyUdS3QCQ"
 [[params.ananke_socials]]
 name = "discord"
-url = "https://discord.gg/Ug6dcmyP"
+url = "https://discord.gg/ZKZMnAafVR"
 color = "#7289da"
 [[params.ananke_socials]]
 name = "github"

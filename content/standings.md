@@ -4,10 +4,10 @@ description: "nuvarande standings"
 featured_image: '/images/balance.png'
 menu:
   main:
-    weight: 12
+    weight: 7
 ---
 
-Säsongstart för första iterationen av Legacyligan drar igång **30/05** 
+Legacyligan drog igång **30/05** 
 
 Vi kör 3 rundor vid 6 tillfällen.
 
@@ -38,15 +38,22 @@ Om detta också är lika får de spela *[Dandân](https://infinite.tcgplayer.com
 {{< table class="standing_tables" >}}
 | ##  | Ligapoäng | Namn | Poäng/v: |   | 1 | 2 | 3 | 4 | 5 | 6 |
 |:-------:|:----------:|------------|-----------|--|--|--|--|--|--|--|
-| 1     | 0         | dOcToR dOoMsDaY | | | 0 |  |  |  |  |  |
-| 2     | 0         | Niklas Werner | | | 9 | 9 | 9 | 9 | 9 | 9 |
-| 3     | 0         | Jonis Bader | | | 0 |  |  |  |  |  |
-| 4     | 0         | Jonathan Westergren | |  | 0 |  |  |  |  |  |
-| 5     | 0         | Olle Olsson | |  | 0 |  |  |  |  |  |
-| 6     | 0         | Olle Lundberg | |  | 0 |  |  |  |  |  |
-| 7     | 0         | Felix Lensing |  | | 0 |  |  |  |  |  |
-| 8     | 0         | Đorđe Grahovac | |   | x | x | x | x | x | x |
-| 9     | 0         | Kristoffer Pettersson | |  | x | x | x | x | x | x |
-| 10     | 0         | David Berg  | | | x | x | x | x | x | x |
-| 11     | 0         | Patrik Broborn  | | | x | x | x | x | x | x |
+| 1     | 0         | Oskar Månsson | | | 9 |  |  |  |  |  |
+| 2     | 0         | Marin Jelica | | | 9 |  |  |  |  |  |
+| 3     | 0         | David Berg | | | 6 |  |  |  |  |  |
+| 4     | 0         | Gustav Holmberg | |  | 6 |  |  |  |  |  |
+| 5     | 0         | Patric Broborn | |  | 6 |  |  |  |  |  |
+| 6     | 0         | Jonis Bader | |  | 6 |  |  |  |  |  |
+| 7     | 0         | Gustav Mattsson |  | | 6 |  |  |  |  |  |
+| 8     | 0         | Olle Olsson |  | | 6 |  |  |  |  |  |
+| 9     | 0         | Kristoffer Pettersson |  | | 3 |  |  |  |  |  |
+| 10     | 0         | Đorđe Grahovac  |  | | 3 |  |  |  |  |  |
+| 11     | 0         | Olle Lundvall  |  | | 3 |  |  |  |  |  |
+| 12     | 0         | Pontus Eriksson |  | | 3 |  |  |  |  |  |
+| 13     | 0         | Felix Lensing |  | | 3 |  |  |  |  |  |
+| 14     | 0         | Henrik Månsson |  | | 3 |  |  |  |  |  |
+| 15    | 0         | Niklas Hay Werner |  | | 0 |  |  |  |  |  |
+
+
 {{< /table >}}
+( X = Frånvarande )
