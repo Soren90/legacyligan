@@ -19,7 +19,7 @@ Glid in på discorden och säg hej, följ och kommentera på de andra sociala ka
 
 Om inte annat... sväng förbi en snabbis och titta på när vi spelar...
 
-Välkommen!
+Hallå!
 
 {{< figure src="/images/aid.jpeg" >}}
 
