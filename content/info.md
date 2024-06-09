@@ -34,7 +34,8 @@ Vi spelar 3 rundor legacy där poäng genereras genom vinster eller oavgjorda ma
 
 Anmälan sker på andra våning, prata med någon. Swishbetalning sker även där uppe.
 
-kostnad 100kr 
+kostnad 100kr per gång
+
   *går oavkortat tillbaka till prisstrukturen, vi är inget företag, transparens här är viktigt för oss*
 
 decklist innan start är ett krav och den kan ges i mailform till legacyligan at gmail . com, i pappersform eller till och som foto/printscreen.  
