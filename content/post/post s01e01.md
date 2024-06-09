@@ -11,5 +11,7 @@ disable_share: true
 
 Tack för senast! Hemsidan har fått sig ett lyft och standings är uppdaterade. Det snackas redan bland folk om meta och sideboard options och vilken lek man ska ta med sig härnäst. Ta med er det snacket digitalt och fortsatt på Discorden. :D 
 
+// Jonis
+
 
 {{< figure src="/images/tack.png" >}}

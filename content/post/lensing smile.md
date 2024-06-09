@@ -8,4 +8,8 @@ disable_share: true
 ---
 
 {{< figure src="/images/lensingler1.png" >}}
-Sjukt gött legacy humör ^^
+
+Sjukt gôtt med legacyhumör.  
+
+
+// Lensing
