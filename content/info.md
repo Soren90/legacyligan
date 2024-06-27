@@ -69,13 +69,12 @@ Första plats vinner en Tundra från 3ED och andraplats vinner två Scalding Tar
 
 ------
 
-### ruleenforcement-level
-REL - regular
+### Rules Enforcement Level 
+[Regular REL]. (https://blogs.magicjudges.org/rules/jar/) Fast lite striktare. 
 
-Klausul: mer åt *strict*-hållet. dvs inga "*[takesies-backsies](https://en.wiktionary.org/wiki/takesies-backsies)*" som norm. 
-Vi räknar med att ni förstår hur MTG fungerar.
+Missed Triggers hanteras istället som i Competitive REL, enligt [IPG 2.1 Game Play Error — Missed Trigger] (https://blogs.magicjudges.org/rules/ipg2-1/)
 
-*__fast inte competative-ruleset, som sådant - för domarn vill också spela.__* 
+Vi är här för att ha roligt men räknar med att ni läst länkarna och förstår hur MTG fungerar.  
 
 Also: {{< figure src="/images/dont.webp" >}}
 
