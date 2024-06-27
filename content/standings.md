@@ -11,21 +11,23 @@ menu:
 {{< table class="standing_tables" >}}
 | ##  | Ligapoäng | Namn | Poäng/v: |   | 1 | 2 | 3 | 4 | 5 | 6 |
 |:-------:|:----------:|------------|-----------|--|--|--|--|--|--|--|
-| 1     | 9         | Oskar Månsson | | | 9 |  |  |  |  |  |
-| 2     | 9         | Marin Jelica | | | 9 |  |  |  |  |  |
-| 3     | 6         | David Berg | | | 6 |  |  |  |  |  |
-| 4     | 6         | Gustav Holmberg | |  | 6 |  |  |  |  |  |
-| 5     | 6         | Patric Broborn | |  | 6 |  |  |  |  |  |
-| 6     | 6         | Jonis Bader | |  | 6 |  |  |  |  |  |
-| 7     | 6         | Gustav Mattsson |  | | 6 |  |  |  |  |  |
-| 8     | 6         | Olle Olsson |  | | 6 |  |  |  |  |  |
-| 9     | 3         | Kristoffer Pettersson |  | | 3 |  |  |  |  |  |
-| 10     | 3         | Đorđe Grahovac  |  | | 3 |  |  |  |  |  |
-| 11     | 3         | Olle Lundvall  |  | | 3 |  |  |  |  |  |
-| 12     | 3         | Pontus Eriksson |  | | 3 |  |  |  |  |  |
-| 13     | 3         | Felix Lensing |  | | 3 |  |  |  |  |  |
-| 14     | 3         | Henrik Månsson |  | | 3 |  |  |  |  |  |
-| 15    | 0         | Niklas Hay Werner |  | | 0 |  |  |  |  |  |
+| 1     | 15         | Oskar Månsson | | | 9 | 6 |  |  |  |  |
+| 2     | 15         | Gustav Holmberg | |  | 6 | 9 |  |  |  |  |
+| 3     | 15         | Jonis Bader | |  | 6 | 9 |  |  |  |  |
+| 4     | 12         | Marin Jelica | | | 9 | 3 |  |  |  |  |
+| 5     | 12         | David Berg | | | 6 | 6 |  |  |  |  |
+| 6     | 12         | Patric Broborn | |  | 6 | 6 |  |  |  |  |
+| 7     | 12         | Olle Olsson |  | | 6 | 6 |  |  |  |  |
+| 8     | 9         | Gustav Mattsson |  | | 6 | 3 |  |  |  |  |
+| 9     | 9         | Kristoffer Pettersson |  | | 3 | 6 |  |  |  |  |
+| 10     | 9         | Felix Lensing |  | | 3 | 6 |  |  |  |  |
+| 11     | 6         | Đorđe Grahovac  |  | | 3 | 3 |  |  |  |  |
+| 12     | 6         | Henrik Månsson |  | | 3 | 3 |  |  |  |  |
+| 13     | 3         | Olle Lundvall  |  | | 3 | 0 |  |  |  |  |
+| 14     | 3         | Pontus Eriksson |  | | 3 | X |  |  |  |  |
+| 15    | 3         | Erik Sjöström |  | | X | 3 |  |  |  |  |
+| 16    | 3         | Martin Hektor |  | | X | 3 |  |  |  |  |
+| 17    | 0         | Niklas Hay Werner |  | | 0 | 0 |  |  |  |  |
 
 
 {{< /table >}}
