@@ -70,9 +70,9 @@ Första plats vinner en Tundra från 3ED och andraplats vinner två Scalding Tar
 ------
 
 ### Rules Enforcement Level 
-[Regular REL]. (https://blogs.magicjudges.org/rules/jar/) Fast lite striktare. 
+[Regular REL](https://blogs.magicjudges.org/rules/jar/). Fast lite striktare. 
 
-Missed Triggers hanteras istället som i Competitive REL, enligt [IPG 2.1 Game Play Error — Missed Trigger] (https://blogs.magicjudges.org/rules/ipg2-1/)
+Missed Triggers hanteras istället som i Competitive REL, enligt [IPG 2.1 Game Play Error — Missed Trigger](https://blogs.magicjudges.org/rules/ipg2-1/)
 
 Vi är här för att ha roligt men räknar med att ni läst länkarna och förstår hur MTG fungerar.  
 
