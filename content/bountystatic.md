@@ -11,7 +11,6 @@ Små utmaningar som gör livet bättre.
 
 #### Aktuella bounties 
 
-- Ploga din egen creature. 
 - Kasta en blast from the past. (Inte från Unglued!)
 - Din motståndare skopar i game 1 turn 1.
 - Döda 2 sagor med en blodmåne-effekt (t.ex Magus, Harbinger, Alpine, Blood Moon)
@@ -32,7 +31,8 @@ Du får aldrig försöka fula till dig en bounty genom att t.ex muta din opponen
 
 #### Claimade bounties
 
-- ~~Spela din motståndares kort.~~
+- ~~Spela din motståndares kort.~~ - Olle Olsson
+- ~~Ploga din egen creature.~~ - Gustav Holmberg
 
 ------
 
