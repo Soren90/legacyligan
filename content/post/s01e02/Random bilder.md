@@ -13,7 +13,7 @@ Slutminuterna av runda 2. Några är djupt fokuserade på att vinna, andra har p
 Mellan rundorna kan man hänga i the Trade Corner och titta på kort - eller sina mobiler! :D 
 {{< figure src="/images/s01e02/Tradehornan.jpg" >}}
 
-Slutmatchen - Infect vs DnT - på Streamen! Kolla på oss nästa gång på [twitch] (https://www.twitch.tv/legacyligan).
+Slutmatchen - Infect vs DnT - på Streamen! Kolla på oss nästa gång på [twitch](https://www.twitch.tv/legacyligan).
 {{< figure src="/images/s01e02/Stream.jpg" >}}
 
 
