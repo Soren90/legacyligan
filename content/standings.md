@@ -11,23 +11,25 @@ menu:
 {{< table class="standing_tables" >}}
 | ##  | Ligapoäng | Namn | Poäng/v: |   | 1 | 2 | 3 | 4 | 5 | 6 |
 |:-------:|:----------:|------------|-----------|--|--|--|--|--|--|--|
-| 1     | 15         | Oskar Månsson | | | 9 | 6 |  |  |  |  |
-| 2     | 15         | Gustav Holmberg | |  | 6 | 9 |  |  |  |  |
-| 3     | 15         | Jonis Bader | |  | 6 | 9 |  |  |  |  |
-| 4     | 12         | Marin Jelica | | | 9 | 3 |  |  |  |  |
-| 5     | 12         | David Berg | | | 6 | 6 |  |  |  |  |
-| 6     | 12         | Patric Broborn | |  | 6 | 6 |  |  |  |  |
-| 7     | 12         | Olle Olsson |  | | 6 | 6 |  |  |  |  |
-| 8     | 9         | Gustav Mattsson |  | | 6 | 3 |  |  |  |  |
-| 9     | 9         | Kristoffer Pettersson |  | | 3 | 6 |  |  |  |  |
-| 10     | 9         | Felix Lensing |  | | 3 | 6 |  |  |  |  |
-| 11     | 6         | Đorđe Grahovac  |  | | 3 | 3 |  |  |  |  |
-| 12     | 6         | Henrik Månsson |  | | 3 | 3 |  |  |  |  |
-| 13     | 3         | Olle Lundvall  |  | | 3 | 0 |  |  |  |  |
-| 14     | 3         | Pontus Eriksson |  | | 3 | X |  |  |  |  |
-| 15    | 3         | Erik Sjöström |  | | X | 3 |  |  |  |  |
-| 16    | 3         | Martin Hektor |  | | X | 3 |  |  |  |  |
-| 17    | 0         | Niklas Hay Werner |  | | 0 | 0 |  |  |  |  |
+| 1     | 24         | Jonis Bader | |  | 6 | 9 | 9 |  |  |  |
+| 2     | 22         | Gustav Holmberg | |  | 6 | 9 | 7 |  |  |  |
+| 3     | 18         | Marin Jelica | |  | 9 | 3 | 6 |  |  |  |
+| 4     | 15         | Oskar Månsson | |  | 9 | 6 | X |  |  |  |
+| 5     | 15         | David Berg | |  | 6 | 6 | 3 |  |  |  |
+| 6     | 15         | Patric Broborn | |  | 6 | 6 | 3 |  |  |  |
+| 7     | 15         | Olle Olsson | |  | 6 | 6 | 3 |  |  |  |
+| 8     | 12         | Kristoffer Pettersson | |  | 3 | 6 | 3 |  |  |  |
+| 9     | 9         | Gustav Mattsson | |  | 6 | 3 | X |  |  |  |
+| 10     | 9         | Felix Lensing | |  | 3 | 6 | X |  |  |  |
+| 11     | 9         | Đorđe Grahovac  | |  | 3 | 3 | 3 |  |  |  |
+| 12     | 9         | Olle Lundvall  | |  | 3 | 0 | 6 |  |  |  |
+| 13     | 7         | Cim Knutsen | |  | X | X | 7 |  |  |  |
+| 14     | 6         | Henrik Månsson | |  | 3 | 3 | X |  |  |  |
+| 15     | 6         | Erik Sjöström | |  | X | 3 | 3 |  |  |  |
+| 16     | 6         | Niklas Hay Werner | |  | 0 | 0 | 6 |  |  |  |
+| 17     | 3         | Samuel Larsson | |  | X | X | 3 |  |  |  |
+| 18     | 3         | Pontus Eriksson | |  | 3 | X | X |  |  |  |
+| 19     | 3         | Martin Hektor | |  | X | 3 | X |  |  |  |
 
 
 {{< /table >}}
