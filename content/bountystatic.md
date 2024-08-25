@@ -15,7 +15,7 @@ Små utmaningar som gör livet bättre.
 - Din motståndare skopar i game 1 turn 1.
 - Döda 2 sagor med en blodmåne-effekt (t.ex Magus, Harbinger, Alpine, Blood Moon)
 - Dra exakt 5 kort i opponents upkeep. Inte med ringen.
-- Få din motståndare till -25 liv. Eller lägre.
+
 
 ------
 
@@ -33,6 +33,7 @@ Du får aldrig försöka fula till dig en bounty genom att t.ex muta din opponen
 
 - ~~Spela din motståndares kort.~~ - Olle Olsson
 - ~~Ploga din egen creature.~~ - Gustav Holmberg
+  ~~Få din motståndare till -25 liv. Eller lägre.~~ - Marin Jelica
 
 ------
 
