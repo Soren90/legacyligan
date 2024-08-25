@@ -33,7 +33,7 @@ Du får aldrig försöka fula till dig en bounty genom att t.ex muta din opponen
 
 - ~~Spela din motståndares kort.~~ - Olle Olsson
 - ~~Ploga din egen creature.~~ - Gustav Holmberg
-  ~~Få din motståndare till -25 liv. Eller lägre.~~ - Marin Jelica
+- ~~Få din motståndare till -25 liv. Eller lägre.~~ - Marin Jelica
 
 ------
 
