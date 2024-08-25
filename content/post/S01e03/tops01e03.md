@@ -23,9 +23,8 @@ Top 3 i juli bestod av mig (ej på bild) med DnT 3-0 samt Cim och Gustav som pil
 
 ### **Ses nästa gång, 29/8!**
 
-{{< figure src="/images/s01e02/G J 3-0.jpg" >}}
+{{< figure src="/images/s01e03/folk.jpg" >}}
 
 
-
-// Jonis
+// Jonis som definitivt inte kommer att köra DnT igen nästa gång. 
 
