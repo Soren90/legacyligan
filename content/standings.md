@@ -11,30 +11,32 @@ menu:
 {{< table class="standing_tables" >}}
 | ##  | Ligapoäng | Namn | Poäng/v: |   | 1 | 2 | 3 | 4 | 5 | 6 |
 |:-------:|:----------:|------------|-----------|--|--|--|--|--|--|--|
-| 1     | 24         | Jonis Bader | |  | 6 | 9 | 9 |  |  |  |
-| 2     | 22         | Gustav Holmberg | |  | 6 | 9 | 7 |  |  |  |
-| 3     | 18         | Marin Jelica | |  | 9 | 3 | 6 |  |  |  |
-| 4     | 15         | Oskar Månsson | |  | 9 | 6 | X |  |  |  |
-| 5     | 15         | David Berg | |  | 6 | 6 | 3 |  |  |  |
-| 6     | 15         | Patric Broborn | |  | 6 | 6 | 3 |  |  |  |
-| 7     | 15         | Olle Olsson | |  | 6 | 6 | 3 |  |  |  |
-| 8     | 12         | Kristoffer Pettersson | |  | 3 | 6 | 3 |  |  |  |
-| 9     | 9         | Gustav Mattsson | |  | 6 | 3 | X |  |  |  |
-| 10     | 9         | Felix Lensing | |  | 3 | 6 | X |  |  |  |
-| 11     | 9         | Đorđe Grahovac  | |  | 3 | 3 | 3 |  |  |  |
-| 12     | 9         | Olle Lundvall  | |  | 3 | 0 | 6 |  |  |  |
-| 13     | 7         | Cim Knutsen | |  | X | X | 7 |  |  |  |
-| 14     | 6         | Henrik Månsson | |  | 3 | 3 | X |  |  |  |
-| 15     | 6         | Erik Sjöström | |  | X | 3 | 3 |  |  |  |
-| 16     | 6         | Niklas Hay Werner | |  | 0 | 0 | 6 |  |  |  |
-| 17     | 3         | Samuel Larsson | |  | X | X | 3 |  |  |  |
-| 18     | 3         | Pontus Eriksson | |  | 3 | X | X |  |  |  |
-| 19     | 3         | Martin Hektor | |  | X | 3 | X |  |  |  |
+| 1     | 31         | Gustav Holmberg | |  | 6 | 9 | 7 | 9 |  |  |
+| 2     | 27         | Jonis Bader | |  | 6 | 9 | 9 | 3 |  |  |
+| 3     | 24         | Marin Jelica | |  | 9 | 3 | 6 | 6 |  |  |
+| 4     | 24         | Oskar Månsson | |  | 9 | 6 | X | 9 |  |  |
+| 5     | 21         | David Berg | |  | 6 | 6 | 3 | 6 |  |  |
+| 6     | 21         | Olle Olsson | |  | 6 | 6 | 3 | 6 |  |  |
+| 7     | 15         | Patric Broborn | |  | 6 | 6 | 3 | 0 |  |  |
+| 8     | 15         | Kristoffer Pettersson | |  | 3 | 6 | 3 | 3 |  |  |
+| 9     | 15         | Felix Lensing | |  | 3 | 6 | X | 6 |  |  |
+| 10     | 13         | Cim Knutsen | |  | X | X | 7 | 6 |  |  |
+| 11     | 12         | Gustav Mattsson | |  | 6 | 3 | X | 3 |  |  |
+| 12     | 12         | Đorđe Grahovac  | |  | 3 | 3 | 3 | 3 |  |  |
+| 13     | 12         | Olle Lundvall  | |  | 3 | 0 | 6 | 3 |  |  |
+| 14     | 12         | Henrik Månsson | |  | 3 | 3 | X | 6 |  |  |
+| 15     | 12         | Erik Sjöström | |  | X | 3 | 3 | 6 |  |  |
+| 16     | 6         | Niklas Hay Werner | |  | 0 | 0 | 6 | X |  |  |
+| 17     | 3         | Samuel Larsson | |  | X | X | 3 | X |  |  |
+| 18     | 3         | Pontus Eriksson | |  | 3 | X | X | 0 |  |  |
+| 19     | 3         | Markus Hillebrand | |  | X | X | X | 3 |  |  |
+| 20     | 3         | Martin Hektor | |  | X | 3 | X | X |  |  |
 
 
 {{< /table >}}
 
 ------
+(Tiebreakers är inte inräknade i placeringen, detta presenteras när säsongen är slut)
 
 ### inför top8-slutspel
 
