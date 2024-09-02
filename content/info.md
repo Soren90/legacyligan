@@ -74,6 +74,8 @@ Första plats vinner en Tundra från 3ED och andraplats vinner två Scalding Tar
 
 Missed Triggers hanteras istället som i Competitive REL, enligt [IPG 2.1 Game Play Error — Missed Trigger](https://blogs.magicjudges.org/rules/ipg2-1/)
 
+[Klicka här för att komma direkt till discorden och allt du behöver veta.](https://discord.com/channels/1238188261310992555/1243323414161395753/1266311061649362994)
+
 Vi är här för att ha roligt men räknar med att ni läst länkarna och förstår hur MTG fungerar.  
 
 Also: {{< figure src="/images/dont.webp" >}}
