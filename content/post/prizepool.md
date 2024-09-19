@@ -16,7 +16,7 @@ Nu har vi haft det stora nöjet att välkomna så pass många spelare vid spelda
 Därför kan vi nu berätta att prisutdelningen i top8 kommer att gå till på följande sätt: Priserna kommer att läggas på 8 rutor. Vinnaren av slutspelet kommer att få välja priset från en ruta. Sedan får spelaren som hamnade på andra plats välja sitt pris. Efter det får spelaren som hamnade på tredje plats välja sitt pris. Så fortsätter det tills alla i top8 har fått sina priser.
 De fyra dyraste priserna ser ni nedan:
 
-{{< figure src="/images/pricepool_september.jpg" >}}
+{{< figure src="/images/prizepool_september.jpg" >}}
 1 Tundra, 1 Badlands, 2 Scalding Tarn, 1 Force of Will
 
 Ja, det är sant! Hela två dualer finns i prispotten!
