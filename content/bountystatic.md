@@ -21,7 +21,7 @@ Små utmaningar som gör livet bättre.
 
 #### Belöning?
 
-Snacka med Domaren. Stämmer din bounty med de some efterlyses kan du claima den. 
+Snacka med Domaren. Stämmer din bounty med de som efterlyses kan du claima den. 
 
 ------
 #### Disclaimer
