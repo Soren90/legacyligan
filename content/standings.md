@@ -7,7 +7,7 @@ menu:
     weight: 7
 ---
 
-### Säsong 1 (Tiebreakers är inte uträknade ännu, lika placering kommer avgöras av tiebreaker.)
+### Säsong 1 (Tiebreakers är endast uträknade på top8.)
 {{< table class="standing_tables" >}}
 | ##  | Ligapoäng | Namn | Poäng/v: |   | 1 | 2 | 3 | 4 | 5 | 6 |
 |:-------:|:----------:|------------|-----------|--|--|--|--|--|--|--|
@@ -39,7 +39,7 @@ menu:
 {{< /table >}}
 
 ------
-(Tiebreakers är inte uträknade ännu, lika placering kommer avgöras av tiebreaker.)
+(Tiebreakers är endast uträknade på top8.)
 
 ### inför top8-slutspel
 
