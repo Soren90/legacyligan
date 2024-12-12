@@ -1,16 +1,19 @@
-#baseURL = 'https://legacyligan.se/'
-languageCode = 'en-us'
 title = 'LEGACYLIGAN'
-theme = 'ananke'
-
 baseURL = "https://legacyligan.se"
+theme = 'ananke'
 resourceDir = "../resources"
 
+
+languageCode = 'en-us'
 DefaultContentLanguage = "sv"
-SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
+sectionPagesMenu = "main"
 enableRobotsTXT = true
+
+[services.googleAnalytics]
+id = ''
+
+[pagination]
+pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 
 [languages]
   [languages.sv]
@@ -32,27 +35,38 @@ enableRobotsTXT = true
   description = "Legacy varje månad"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
+  # choose fitting and alignment styles for the featured image using Tachyons classes such as "cover|contain" for fitting and "bg-top|bg-center|bg-bottom" for alignment, or add any other class space-separated to customize further
+  featured_image_class = "cover bg-top"
+  # choose a color dimming class for the page or site header from any on this page: https://tachyons.io/docs/themes/skins/, preface it with "bg-" and add the value such as "-X0" where X is in [1,9]
+  cover_dimming_class = "bg-black-60"
   recent_posts_number = 3
+
   custom_css = ["table.css"]
 
+[params.ananke.social.follow]
+networks = [
+  "twitch",
+  "twitter",
+  "instagram",
+  "youtube",
+  "discord",
+  "github"
+]
 
-[[params.ananke_socials]]
-name = "twitch"
-url = "https://www.twitch.tv/legacyligan"
-color = '#6441a4'
-[[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/legacyligan"
-[[params.ananke_socials]]
-name = "instagram"
-url = "https://www.instagram.com/legacyligan"
-[[params.ananke_socials]]
-name = "youtube"
-url = "https://www.youtube.com/channel/UCNpnzSbeGiZpvSnyUdS3QCQ"
-[[params.ananke_socials]]
-name = "discord"
-url = "https://discord.gg/ZKZMnAafVR"
-color = "#7289da"
-[[params.ananke_socials]]
-name = "github"
-url = "https://github.com/Soren90/legacyligan"
+[params.ananke.social.twitch]
+username = "legacyligan"
+
+[params.ananke.social.twitter]
+username = "legacyligan"
+
+[params.ananke.social.instagram]
+username = "legacyligan"
+
+[params.ananke.social.youtube]
+profilelink = "https://www.youtube.com/channel/UCNpnzSbeGiZpvSnyUdS3QCQ"
+
+[params.ananke.social.discord]
+username = "ZKZMnAafVR"
+
+[params.ananke.social.github]
+username = "Soren90/legacyligan"
