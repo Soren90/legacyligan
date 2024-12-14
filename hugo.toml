@@ -13,7 +13,7 @@ enableRobotsTXT = true
 id = ''
 
 [pagination]
-pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+pagerSize = 9 # this is set low for demonstrating with dummy content. Set to a higher number
 
 [languages]
   [languages.sv]

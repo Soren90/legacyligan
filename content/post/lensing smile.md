@@ -6,10 +6,10 @@ tags: []
 title: "Legacy humöret"
 disable_share: true
 ---
-
+Sjukt gôtt med legacyhumör.  
+<!--more-->
 {{< figure src="/images/lensingler1.png" >}}
 
-Sjukt gôtt med legacyhumör.  
 
 
 // Lensing

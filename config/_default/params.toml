@@ -254,7 +254,7 @@ icon = "youtube" # font awesome brand icon name
 slug = "discord"
 label = "Discord"
 color = "#7289da"
-profile = "https://discord.gg/@%s"
+profile = "https://discord.gg/%s"
 icon = "discord"
 
 [[ananke.social.networks]]

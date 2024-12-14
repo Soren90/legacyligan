@@ -8,6 +8,7 @@ disable_share: true
 ---
 
 Slutminuterna av runda 2. Några är djupt fokuserade på att vinna, andra har precis förlorat.
+<!--more-->
 {{< figure src="/images/s01e02/Spel.jpg" >}}
 
 Mellan rundorna kan man hänga i the Trade Corner och titta på kort - eller sina mobiler! :D 
