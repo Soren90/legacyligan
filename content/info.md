@@ -8,78 +8,106 @@ menu:
 ---
 
 ### bakgrund
-Länge har vi skôjat om legacygibb på hemmaplan med hårdare rule-enforcementlevel med något på spel i egen regi. Gubbligan var tanken, men två år senare tog till slut gemenskapen saken i egna händer och tillsammans har skapat legacyligan.se som... ptja, är ett slags nav där vi kan samla våra minnen, tankar och helt enkelt försöka förmedla känslan kring vårat spel, för legacycontent på svenska är ju minst sagt gles. Håll till godo.. eller häng på!
+
+Säsong 2 av Legacyligan presenteras av spelföreningen Legacyligisterna!
+
+Efter Legacyligan 2024 så valde vi att fortsätta driva ligan i föreningsform.
+
+Vår tanke är att detta ska vara något som vi gör tillsammans i communityn. Ett återkommande event där vi hjälps åt och tillsammans ser till att allt fungerar bra.
+
 
 ------
 
 ### när
-Sista torsdagen varje månad fram tills sjätte omgången är spelad.
 
-30/5, 27/6, 25/7, 29/8, 26/9, 31/10. 
+Mars till oktober. 
 
-top8 går till slutspel, där priserna sedan delas ut efteråt. Vi kommer hitta ett längre fram, det kommer att ske en lördag eller söndag. 
+Sista torsdagen i månaden. (Förutom i maj. Då kör vi näst sista torsdagen istället p.g.a röd dag.) 
+
+
+27/3, 24/4, **22**/5, 26/6, 31/7, 28/8, 25/9, 30/10. 
+
+Klockan 18:30 drar vi igång.
+
+
+Top 8 spelar lördagen den 15:e November. Double Elimination. Planerad start-tid är 11:00.
 
 ------
 
 ### var 
 
-Trollhättan. Föreningsgatan 16, en trappa upp!
+[Alara Games](https://www.alaragames.se)
+- 
+Trollhättan. Föreningsgatan 16.  
 
-Våran huvudsponsor [Alara Games](https://www.alaragames.se) förser oss med husrum.
+(Betalning och registrering för eventet sker på övervåningen. Betalningen går till Spelföreningen Legacyligisterna.)
+
  
 ------
 
 ### hur
-Vi spelar 3 rundor legacy där poäng genereras genom vinster eller oavgjorda matcher. Säsong #1 har vi valt att testköra med 6 omgångar där top8 går till slutspelsfasen. Slutspelet kommer att ske under en helgdag och troligen förmiddag. Vi har slopat det klassiska stuket där deltagande även skulle generera poäng. 
 
-Anmälan sker på andra våning, prata med någon. Swishbetalning sker även där uppe.
+3 rundor Legacy och ett gött humör.
 
-kostnad 100kr per gång
+För poängstruktur, slutspelsinformation etc: Se [standings](https://legacyligan.se/standings) för mer info
 
-  *går oavkortat tillbaka till prisstrukturen, vi är inget företag, transparens här är viktigt för oss*
 
-decklist innan start är ett krav och den kan ges i mailform till legacyligan at gmail . com, i pappersform eller till och som foto/printscreen.  
+...
 
-Frågor/funderingar?  In på [Discord](https://discord.com/invite/ZKZMnAafVR)-servern och ta kontakt eller via mailen ovan.
+Anmälan: Betala oss och skriv in eventkoden i Companion-appen eller säg till oss. Detta sker på spelytan på övervåningen, INTE i butiken. Betalning = Swish eller enligt överenskommelse.
 
-------
+...
 
-### poängstruktur
-6 omgångar á 3 rundor. Datum för första säsongen hittar ni här; *[kalender](kalender.md)*
+Pris: 130kr 
 
-3p per matchvinst 
+(30kr går till Alara Games för lokalhyra, resten till prissupport och till andra eventuella utgifter samt eventuellt till buffert för nästa års liga)
 
-1p per oavgjort
 
-*inga gratispoäng vid närvaro, men vi håller koll och dedikering missunnas inte!*  
+...
 
-Vidare info; *[standings](standings.md)* 
+Vi vill ha **decklist** från varje speltillfälle så vi kan publicera på mtgtop8 och mtgdecks. Helst innan eventet drar igång så allt är löst. 
+
+Digital lista eller foto på leken skickas till Legacyligan@gmail.com 
+Handskriven lista funkar också.
+
+...
+
+Frågor, funderingar eller tankar om livet? Joina vår [discord](https://discord.com/invite/ZKZMnAafVR) eller maila oss.
+
 
 ------
 
 ### prisbild 
-Tundra, tarns, ni vet... skoj! Kika i vårat glasskåp så får ni se. 
+Förra året slogs vi om en Tundra och 2 Retro Scalding Tarns. Och när säsongen nästan var över så uppdaterades prispoolen med ännu fler priser baserat på deltagandet. 
 
-Första plats vinner en Tundra från 3ED och andraplats vinner två Scalding Tarn från MH2 i retrostuk. 
-### Förstapris säsong #1 - Tundra
-{{< figure src="/images/tundra.png" >}}
+I år kommer vi att gå mer top-heavy på priserna! 
 
-### Andrapris säsong #1 - 2 Scalding Tarn i retrostuk!
-{{< figure src="/images/andrapris.png" >}}
+Vi börjar med följande, sedan får vi se hur det utvecklar sig. ;) 
+
+
+### Förstapris säsong #2 - En Underground Sea från Revised
+{{< figure src="/images/underground.jpeg" >}}
+
+### Andrapris säsong #2 - Ett par Bloodstained Mire från Onslaught
+{{< figure src="/images/bloodstained.jpeg" >}}
+
 
 ------
 
 ### Rules Enforcement Level 
-[Regular REL](https://blogs.magicjudges.org/rules/jar/). Fast lite striktare. 
+Vi vill ha go' stämning och samtidigt uppmuntra till lite tightare spel.  
 
-Missed Triggers hanteras istället som i Competitive REL, enligt [IPG 2.1 Game Play Error — Missed Trigger](https://blogs.magicjudges.org/rules/ipg2-1/)
+Därför kör vi [Regular REL](https://blogs.magicjudges.org/rules/jar/). Fast lite striktare. 
+
+
+Missed Triggers hanteras som i Competitive REL, enligt [IPG 2.1 Game Play Error — Missed Trigger](https://blogs.magicjudges.org/rules/ipg2-1/)
 
 [Klicka här för att komma direkt till discorden och allt du behöver veta.](https://discord.com/channels/1238188261310992555/1243323414161395753/1266311061649362994)
 
-Vi är här för att ha roligt men räknar med att ni läst länkarna och förstår hur MTG fungerar.  
+Läs länkarna så kommer ni att bli bättre och gladare magic-spelare. 
+
+Vi är här för att ha roligt och vill ha en inkluderande stämning. 
 
 Also: {{< figure src="/images/dont.webp" >}}
 
 ------
-
-*Bountys? Påverkar inte ligaställningar, men tänk achievements som en skojig bonus! allt om detta och vad som efterlyses hittar ni **[här](bountystatic.md)** *och du håller dig bäst uppdaterad på **[startsidan](_index.md)** eller i **[arkiv](post/_index.md)**.*
