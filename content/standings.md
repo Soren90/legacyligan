@@ -10,9 +10,9 @@ menu:
 
 Sista torsdagen i månaden. (Förutom i maj, då kör vi näst sista torsdagen.) 
 
-27/3, 24/4, **22**/5, 26/6, 31/7, 28/8, 25/9, 30/10. 
+~~27/3~~, ~~24/4~~, **22/5**, 26/6, 31/7, 28/8, 25/9, 30/10. 
 
-Klockan 18:30 drar vi igång.
+ Klockan 18:30 drar vi igång.
 
 
 
@@ -26,7 +26,7 @@ Klockan 18:30 drar vi igång.
 
 - Draw = 1 poäng.
 
- - Loss = 0 poäng.
+- Loss = 0 poäng.
 
 - Närvaro = 0 poäng, men du får gemenskap, passion och stifle i din fetch. 
 
@@ -41,7 +41,7 @@ Klockan 18:30 drar vi igång.
 
 Top 8 kommer gå vidare till slutspel lördagen den 15:e november. Planerad starttid är 11:00. 
 
-Slutspelet kommer att vara en Double elimination, varje runda är Bo3. Högst rankad bestämmer play/draw.
+Slutspelet kommer att vara en Double elimination, varje runda är Bo3. Högst rankad bestämmer play/draw. Rules Enforcement Level kommer att vara Competetive och och vi budgeterar för att ta dit en erfaren domare. 
 
 
 ------
@@ -52,30 +52,33 @@ Slutspelet kommer att vara en Double elimination, varje runda är Bo3. Högst ra
 {{< table class="standing_tables" >}}
 | ##  | Ligapoäng | Namn | Poäng/v: |   	     | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |:-------:|:----------:|------------|-------------|--|---|---|---|---|---|---|---|---|
-| 01     | 00         | Gustav Holmberg 	| |  | 9 |  |  |  |  |  |  |  |
-| 02     | 00         | Jonis Bader 		| |  | 9 |  |  |  |  |  |  |  |
-| 03     | 00         | Mattias Ljunge 		| |  | 9 |  |  |  |  |  |  |  |
-| 04     | 00         | Cim Knutsen 		| |  | 6 |  |  |  |  |  |  |  |
-| 05     | 00         | David Berg 		| |  | 6 |  |  |  |  |  |  |  |
-| 06     | 00         | Kristoffer Pettersson 	| |  | 6 |  |  |  |  |  |  |  |
-| 07     | 00         | Marin Jelica 		| |  | 6 |  |  |  |  |  |  |  |
-| 08     | 00         | Michael Demmers 	| |  | 6 |  |  |  |  |  |  |  |
-| 09     | 00         | Niklas Hay Werner 	| |  | 6 |  |  |  |  |  |  |  |
-| 10     | 00         | Pontus Eriksson		| |  | 6 |  |  |  |  |  |  |  |
-| 11     | 00         | Cevin Berg 		| |  | 3 |  |  |  |  |  |  |  |
-| 12     | 00         | Eric Nystrand 		| |  | 3 |  |  |  |  |  |  |  |
-| 13     | 00         | Felix Lensing 		| |  | 3 |  |  |  |  |  |  |  |
-| 14     | 00         | Jacob Gustafsson Lundin | |  | 3 |  |  |  |  |  |  |  |
-| 15     | 00         | Jesper Berntsson 	| |  | 3 |  |  |  |  |  |  |  |
-| 16     | 00         | Olle Lundvall 		| |  | 3 |  |  |  |  |  |  |  |
-| 17     | 00         | Tim Hansson 		| |  | 3 |  |  |  |  |  |  |  |
-| 18     | 00         | Alfons Myrvold Dinamarca| |  | 0 |  |  |  |  |  |  |  |
-| 19     | 00         | Erik Sjöström 		| |  | 0 |  |  |  |  |  |  |  |
-| 20     | 00         | Jonathan Westergren 	| |  | 0 |  |  |  |  |  |  |  |
+| 01     | 14         | Mattias Ljunge 		| |  | 9 | 5 |  |  |  |  |  |  |
+| 02     | 13         | Jonis Bader 		| |  | 9 | 4 |  |  |  |  |  |  |
+| 03     | 13         | Cim Knutsen 		| |  | 6 | 7 |  |  |  |  |  |  |
+| 04     | 13         | Marin Jelica 		| |  | 6 | 7 |  |  |  |  |  |  |
+| 05     | 12         | David Berg 		| |  | 6 | 6 |  |  |  |  |  |  |
+| 06     | 11         | Michael Demmers 	| |  | 6 | 5 |  |  |  |  |  |  |
+| 07     | 09         | Gustav Holmberg 	| |  | 9 | X |  |  |  |  |  |  |
+| 08     | 09         | Niklas Hay Werner 	| |  | 6 | 3 |  |  |  |  |  |  |
+| 09     | 09         | Pontus Eriksson		| |  | 6 | 3 |  |  |  |  |  |  |
+| 10     | 09         | Olle Olsson	 	| |  | X | 9 |  |  |  |  |  |  |
+| 11     | 08         | Kristoffer Pettersson 	| |  | 6 | 2 |  |  |  |  |  |  |
+| 12     | 07         | Cevin Berg 		| |  | 3 | 4 |  |  |  |  |  |  |
+| 13     | 06         | Alfons Myrvold Dinamarca| |  | 0 | 6 |  |  |  |  |  |  |
+| 14     | 06         | Oscar Kempe	 	| |  | X | 6 |  |  |  |  |  |  |
+| 15     | 04         | Erik Sjöström 		| |  | 0 | 4 |  |  |  |  |  |  |
+| 16     | 04         | Olle Lundvall 		| |  | 3 | 1 |  |  |  |  |  |  |
+| 17     | 03         | Jonathan Westergren 	| |  | 0 | 3 |  |  |  |  |  |  |
+| 18     | 03         | Eric Nystrand 		| |  | 3 | X |  |  |  |  |  |  |
+| 19     | 03         | Felix Lensing 		| |  | 3 | 0 |  |  |  |  |  |  |
+| 20     | 03         | Jacob Gustafsson Lundin | |  | 3 | X |  |  |  |  |  |  |
+| 21     | 03         | Jesper Berntsson 	| |  | 3 | X |  |  |  |  |  |  |
+| 22     | 03         | Tim Hansson 		| |  | 3 | X |  |  |  |  |  |  |
+| 23     | 00         | Djordje Grahovac 	| |  | X | 0 |  |  |  |  |  |  |
 
 
 {{< /table >}}
 
 ( X = Frånvarande )
 
-( Tiebreakers är inte inräknat i resultatet. Lika poäng står i bokstavsordning)
+( Tiebreakers är inte inräknat i resultatet. Lika poäng står i random ordning)
