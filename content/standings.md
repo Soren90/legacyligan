@@ -10,9 +10,9 @@ menu:
 
 Sista torsdagen i månaden. (Förutom i maj, då kör vi näst sista torsdagen.) 
 
-~~27/3~~, ~~24/4~~, **22**/5, 26/6, 31/7, 28/8, 25/9, 30/10. 
+~~27/3~~, ~~24/4~~, **22/5**, 26/6, 31/7, 28/8, 25/9, 30/10. 
 
-Klockan 18:30 drar vi igång.
+ Klockan 18:30 drar vi igång.
 
 
 
