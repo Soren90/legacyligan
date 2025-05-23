@@ -10,7 +10,7 @@ menu:
 
 Sista torsdagen i månaden. (Förutom i maj, då kör vi näst sista torsdagen.) 
 
-~~27/3~~, ~~24/4~~, **22/5**, 26/6, 31/7, 28/8, 25/9, 30/10. 
+~~27/3~~, ~~24/4~~, ~~22/5~~, **26/6**, 31/7, 28/8, 25/9, 30/10. 
 
  Klockan 18:30 drar vi igång.
 
@@ -52,29 +52,32 @@ Slutspelet kommer att vara en Double elimination, varje runda är Bo3. Högst ra
 {{< table class="standing_tables" >}}
 | ##  | Ligapoäng | Namn | Poäng/v: |   	     | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |:-------:|:----------:|------------|-------------|--|---|---|---|---|---|---|---|---|
-| 01     | 14         | Mattias Ljunge 		| |  | 9 | 5 |  |  |  |  |  |  |
-| 02     | 13         | Jonis Bader 		| |  | 9 | 4 |  |  |  |  |  |  |
-| 03     | 13         | Cim Knutsen 		| |  | 6 | 7 |  |  |  |  |  |  |
-| 04     | 13         | Marin Jelica 		| |  | 6 | 7 |  |  |  |  |  |  |
-| 05     | 12         | David Berg 		| |  | 6 | 6 |  |  |  |  |  |  |
-| 06     | 11         | Michael Demmers 	| |  | 6 | 5 |  |  |  |  |  |  |
-| 07     | 09         | Gustav Holmberg 	| |  | 9 | X |  |  |  |  |  |  |
-| 08     | 09         | Niklas Hay Werner 	| |  | 6 | 3 |  |  |  |  |  |  |
-| 09     | 09         | Pontus Eriksson		| |  | 6 | 3 |  |  |  |  |  |  |
-| 10     | 09         | Olle Olsson	 	| |  | X | 9 |  |  |  |  |  |  |
-| 11     | 08         | Kristoffer Pettersson 	| |  | 6 | 2 |  |  |  |  |  |  |
-| 12     | 07         | Cevin Berg 		| |  | 3 | 4 |  |  |  |  |  |  |
-| 13     | 06         | Alfons Myrvold Dinamarca| |  | 0 | 6 |  |  |  |  |  |  |
-| 14     | 06         | Oscar Kempe	 	| |  | X | 6 |  |  |  |  |  |  |
-| 15     | 04         | Erik Sjöström 		| |  | 0 | 4 |  |  |  |  |  |  |
-| 16     | 04         | Olle Lundvall 		| |  | 3 | 1 |  |  |  |  |  |  |
-| 17     | 03         | Jonathan Westergren 	| |  | 0 | 3 |  |  |  |  |  |  |
-| 18     | 03         | Eric Nystrand 		| |  | 3 | X |  |  |  |  |  |  |
-| 19     | 03         | Felix Lensing 		| |  | 3 | 0 |  |  |  |  |  |  |
-| 20     | 03         | Jacob Gustafsson Lundin | |  | 3 | X |  |  |  |  |  |  |
-| 21     | 03         | Jesper Berntsson 	| |  | 3 | X |  |  |  |  |  |  |
-| 22     | 03         | Tim Hansson 		| |  | 3 | X |  |  |  |  |  |  |
-| 23     | 00         | Djordje Grahovac 	| |  | X | 0 |  |  |  |  |  |  |
+| 01     | 21         | David Berg 		| |  | 6 | 6 | 9 |  |  |  |  |  |
+| 02     | 20         | Mattias Ljunge 		| |  | 9 | 5 | 6 |  |  |  |  |  |
+| 03     | 19         | Cim Knutsen 		| |  | 6 | 7 | 6 |  |  |  |  |  |
+| 04     | 18         | Gustav Holmberg 	| |  | 9 | X | 9 |  |  |  |  |  |
+| 05     | 16         | Olle Olsson	 	| |  | X | 9 | 7 |  |  |  |  |  |
+| 06     | 16         | Jonis Bader 		| |  | 9 | 4 | 3 |  |  |  |  |  |
+| 07     | 16         | Marin Jelica 		| |  | 6 | 7 | 3 |  |  |  |  |  |
+| 08     | 14         | Michael Demmers 	| |  | 6 | 5 | 3 |  |  |  |  |  |
+| 09     | 12         | Kristoffer Pettersson 	| |  | 6 | 2 | 4 |  |  |  |  |  |
+| 10     | 12         | Felix Lensing 		| |  | 3 | 0 | 9 |  |  |  |  |  |
+| 11     | 10         | Erik Sjöström 		| |  | 0 | 4 | 6 |  |  |  |  |  |
+| 12     | 09         | Niklas Hay Werner 	| |  | 6 | 3 | 0 |  |  |  |  |  |
+| 13     | 09         | Tim Hansson 		| |  | 3 | X | 6 |  |  |  |  |  |
+| 14     | 09         | Pontus Eriksson		| |  | 6 | 3 | X |  |  |  |  |  |
+| 15     | 09         | Alfons Myrvold Dinamarca| |  | 0 | 6 | 3 |  |  |  |  |  |
+| 16     | 09         | Oscar Kempe	 	| |  | X | 6 | 3 |  |  |  |  |  |
+| 17     | 07         | Cevin Berg 		| |  | 3 | 4 | 0 |  |  |  |  |  |
+| 18     | 07         | Olle Lundvall 		| |  | 3 | 1 | 3 |  |  |  |  |  |
+| 19     | 06         | Patric Broborn		| |  | X | X | 6 |  |  |  |  |  |
+| 20     | 06         | Henrik Månsson 		| |  | X | X | 6 |  |  |  |  |  |
+| 21     | 06         | Eric Nystrand 		| |  | 3 | X | 3 |  |  |  |  |  |
+| 22     | 03         | Jonathan Westergren 	| |  | 0 | 3 | X |  |  |  |  |  |
+| 23     | 03         | Jacob Gustafsson Lundin | |  | 3 | X | X |  |  |  |  |  |
+| 24     | 03         | Jesper Berntsson 	| |  | 3 | X | X |  |  |  |  |  |
+| 25     | 03         | Djordje Grahovac 	| |  | X | 0 | 3 |  |  |  |  |  |
+
 
 
 {{< /table >}}
