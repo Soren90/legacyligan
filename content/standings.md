@@ -77,7 +77,7 @@ Slutspelet kommer att vara en Double elimination, varje runda är Bo3. Högst ra
 | 23     | 07         | Jesper Berntsson 	| |  | 3 | X | X | 4 |  |  |  |  |
 | 24     | 07         | Olle Lundvall 		| |  | 3 | 1 | 3 | 0 |  |  |  |  |
 | 25     | 06         | Henrik Månsson 		| |  | X | X | 6 | X |  |  |  |  |
-| 26     | 03         | Jonathan Orrö 	| |  | X | X | X | 3 |  |  |  |  |
+| 26     | 03         | Jonathan Orrö 	  | |  | X | X | X | 3 |  |  |  |  |
 
 
 
