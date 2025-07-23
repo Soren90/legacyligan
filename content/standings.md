@@ -10,7 +10,7 @@ menu:
 
 Sista torsdagen i månaden. (Förutom i maj, då kör vi näst sista torsdagen.) 
 
-~~27/3~~, ~~24/4~~, ~~22/5~~, **26/6**, 31/7, 28/8, 25/9, 30/10. 
+~~27/3~~, ~~24/4~~, ~~22/5~~, ~~26/6~~, **31/7**, 28/8, 25/9, 30/10. 
 
  Klockan 18:30 drar vi igång.
 
@@ -52,31 +52,32 @@ Slutspelet kommer att vara en Double elimination, varje runda är Bo3. Högst ra
 {{< table class="standing_tables" >}}
 | ##  | Ligapoäng | Namn | Poäng/v: |   	     | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |:-------:|:----------:|------------|-------------|--|---|---|---|---|---|---|---|---|
-| 01     | 21         | David Berg 		| |  | 6 | 6 | 9 |  |  |  |  |  |
-| 02     | 20         | Mattias Ljunge 		| |  | 9 | 5 | 6 |  |  |  |  |  |
-| 03     | 19         | Cim Knutsen 		| |  | 6 | 7 | 6 |  |  |  |  |  |
-| 04     | 18         | Gustav Holmberg 	| |  | 9 | X | 9 |  |  |  |  |  |
-| 05     | 16         | Olle Olsson	 	| |  | X | 9 | 7 |  |  |  |  |  |
-| 06     | 16         | Jonis Bader 		| |  | 9 | 4 | 3 |  |  |  |  |  |
-| 07     | 16         | Marin Jelica 		| |  | 6 | 7 | 3 |  |  |  |  |  |
-| 08     | 14         | Michael Demmers 	| |  | 6 | 5 | 3 |  |  |  |  |  |
-| 09     | 12         | Kristoffer Pettersson 	| |  | 6 | 2 | 4 |  |  |  |  |  |
-| 10     | 12         | Felix Lensing 		| |  | 3 | 0 | 9 |  |  |  |  |  |
-| 11     | 10         | Erik Sjöström 		| |  | 0 | 4 | 6 |  |  |  |  |  |
-| 12     | 09         | Niklas Hay Werner 	| |  | 6 | 3 | 0 |  |  |  |  |  |
-| 13     | 09         | Tim Hansson 		| |  | 3 | X | 6 |  |  |  |  |  |
-| 14     | 09         | Pontus Eriksson		| |  | 6 | 3 | X |  |  |  |  |  |
-| 15     | 09         | Alfons Myrvold Dinamarca| |  | 0 | 6 | 3 |  |  |  |  |  |
-| 16     | 09         | Oscar Kempe	 	| |  | X | 6 | 3 |  |  |  |  |  |
-| 17     | 07         | Cevin Berg 		| |  | 3 | 4 | 0 |  |  |  |  |  |
-| 18     | 07         | Olle Lundvall 		| |  | 3 | 1 | 3 |  |  |  |  |  |
-| 19     | 06         | Patric Broborn		| |  | X | X | 6 |  |  |  |  |  |
-| 20     | 06         | Henrik Månsson 		| |  | X | X | 6 |  |  |  |  |  |
-| 21     | 06         | Eric Nystrand 		| |  | 3 | X | 3 |  |  |  |  |  |
-| 22     | 03         | Jonathan Westergren 	| |  | 0 | 3 | X |  |  |  |  |  |
-| 23     | 03         | Jacob Gustafsson Lundin | |  | 3 | X | X |  |  |  |  |  |
-| 24     | 03         | Jesper Berntsson 	| |  | 3 | X | X |  |  |  |  |  |
-| 25     | 03         | Djordje Grahovac 	| |  | X | 0 | 3 |  |  |  |  |  |
+| 01     | 25         | Cim Knutsen 		| |  | 6 | 7 | 6 | 6 |  |  |  |  |
+| 02     | 25         | Jonis Bader 		| |  | 9 | 4 | 3 | 9 |  |  |  |  |
+| 03     | 24         | David Berg 		| |  | 6 | 6 | 9 | 3 |  |  |  |  |
+| 04     | 23         | Mattias Ljunge 		| |  | 9 | 5 | 6 | 3 |  |  |  |  |
+| 05     | 22         | Marin Jelica 		| |  | 6 | 7 | 3 | 6 |  |  |  |  |
+| 06     | 21         | Felix Lensing 		| |  | 3 | 0 | 9 | 9 |  |  |  |  |
+| 07     | 18         | Gustav Holmberg 	| |  | 9 | X | 9 | X |  |  |  |  |
+| 08     | 17         | Michael Demmers 	| |  | 6 | 5 | 3 | 3 |  |  |  |  |
+| 09     | 16         | Erik Sjöström 		| |  | 0 | 4 | 6 | 6 |  |  |  |  |
+| 10     | 16         | Olle Olsson	 	| |  | X | 9 | 7 | 0 |  |  |  |  |
+| 11     | 15         | Alfons Myrvold Dinamarca| |  | 0 | 6 | 3 | 6 |  |  |  |  |
+| 12     | 15         | Patric Broborn		| |  | X | X | 6 | 9 |  |  |  |  |
+| 13     | 14         | Kristoffer Pettersson 	| |  | 6 | 2 | 4 | 2 |  |  |  |  |
+| 14     | 12         | Niklas Hay Werner 	| |  | 6 | 3 | 0 | 3 |  |  |  |  |
+| 15     | 09         | Djordje Grahovac 	| |  | X | 0 | 3 | 6 |  |  |  |  |
+| 16     | 09         | Eric Nystrand 		| |  | 3 | X | 3 | 3 |  |  |  |  |
+| 17     | 09         | Jacob Gustafsson Lundin | |  | 3 | X | X | 6 |  |  |  |  |
+| 18     | 09         | Jonathan Westergren 	| |  | 0 | 3 | X | 6 |  |  |  |  |
+| 19     | 09         | Tim Hansson 		| |  | 3 | X | 6 | X |  |  |  |  |
+| 20     | 09         | Pontus Eriksson		| |  | 6 | 3 | X | X |  |  |  |  |
+| 21     | 09         | Oscar Kempe	 	| |  | X | 6 | 3 | X |  |  |  |  |
+| 12     | 07         | Cevin Berg 		| |  | 3 | 4 | 0 | 1 |  |  |  |  |
+| 23     | 07         | Jesper Berntsson 	| |  | 3 | X | X | 4 |  |  |  |  |
+| 24     | 07         | Olle Lundvall 		| |  | 3 | 1 | 3 | 0 |  |  |  |  |
+| 25     | 06         | Henrik Månsson 		| |  | X | X | 6 | X |  |  |  |  |
+| 26     | 03         | Jonathan Orrö 	| |  | X | X | X | 3 |  |  |  |  |
 
 
 
