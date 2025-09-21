@@ -34,9 +34,9 @@ Snacka med Domaren. Stämmer din bounty med de som efterlyses kan du claima den 
 
 ______
 
-#### WANTED: MOAR BOUNTIES
+#### WANTED: MOAR BOUNTIES!!!
 
-** Har du egna bounties du vill annonsera? Kort du vill att någon annan ska kunna vinna? Hör av dig så samverkar vi och lägger upp din bounty och din reward här.**
+**Har du egna bounties du vill annonsera? Kort du vill att någon annan ska kunna vinna? Hör av dig så samverkar vi och lägger upp din bounty och din reward här.**
 
 ______
 
