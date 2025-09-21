@@ -1,13 +1,11 @@
 ---
 date: 2025-09-19T11:00:59-04:00
-description: "HEAR YE! HEAR YE!"
+description: "Omgång 7 på torsdag!"
 featured_image: "/images/lanalekbanner.jpeg"
 tags: []
-title: "Omgång 7 på torsdag!"
+title: "HEAR YE! HEAR YE!"
 disable_share: true
 ---
-
-
 
 18:30 på torsdag så kör vi! Näst sista gången för i år.
 
