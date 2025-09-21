@@ -15,10 +15,16 @@ Var först. Var bäst. Claima din bounty innan någon annan tar den.
 #### Aktuella bounties 
 
 - Kasta en blast from the past. (Inte från Unglued!)
-- Din motståndare skopar i game 1 turn 1.
-- Döda 2 sagor med en blodmåne-effekt (t.ex Magus, Harbinger, Alpine, Blood Moon)
 - Dra exakt 5 kort i opponents upkeep. Inte med ringen.
 
+#### Claimade bounties
+
+- ~~Din motståndare skopar i game 1 turn 1.~~ - David Berg
+- ~~Spela din motståndares kort.~~ - Olle Olsson
+- ~~Ploga din egen creature.~~ - Gustav Holmberg
+- ~~Få din motståndare till -25 liv. Eller lägre.~~ - Marin Jelica
+
+- ~~Döda 2 sagor med en blodmåne-effekt (t.ex Magus, Harbinger, Alpine, Blood Moon)~~ - WotC ändrade regler för sagor och dödade hela bountyn. 
 
 ------
 
@@ -26,12 +32,12 @@ Var först. Var bäst. Claima din bounty innan någon annan tar den.
 
 Snacka med Domaren. Stämmer din bounty med de som efterlyses kan du claima den och du får ett magic-kort som belöning. 
 
-------
+______
 
+#### WANTED: MOAR BOUNTIES
 
-#### WANTED:
+** Har du egna bounties du vill annonsera? Kort du vill att någon annan ska kunna vinna? Hör av dig så samverkar vi och lägger upp din bounty och din reward här.**
 
-**Har du egna bounties du vill annonsera? Kort du vill att någon annan ska kunna vinna? Hör av dig så samverkar vi och lägger upp din bounty och din reward här.**
 ______
 
 #### Disclaimer
@@ -39,10 +45,6 @@ Du får aldrig försöka fula till dig en bounty genom att t.ex muta din opponen
 
 ------
 
-#### Claimade bounties
 
-- ~~Spela din motståndares kort.~~ - Olle Olsson
-- ~~Ploga din egen creature.~~ - Gustav Holmberg
-- ~~Få din motståndare till -25 liv. Eller lägre.~~ - Marin Jelica
 
 ------
