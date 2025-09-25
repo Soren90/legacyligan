@@ -18,7 +18,7 @@ Var först. Var bäst. Claima din bounty innan någon annan tar den.
 
 #### Claimade bounties
 
-- ~~Kasta en blast from the past. (Inte från Unglued!)~~ - Alfons Myrvold Dinamarca [Acid Rain](https://cards.scryfall.io/large/front/b/a/ba93c50a-2440-4e92-9cba-d97e20b1d29c.jpg?1562860861)
+- ~~Kasta en blast from the past. (Inte från Unglued!)~~ - Alfons Myrvold Dinamarca kastade den bortglömda klassikern [Acid Rain!](https://cards.scryfall.io/large/front/b/a/ba93c50a-2440-4e92-9cba-d97e20b1d29c.jpg?1562860861)
 - ~~Din motståndare skopar i game 1 turn 1.~~ - David Berg
 - ~~Spela din motståndares kort.~~ - Olle Olsson
 - ~~Ploga din egen creature.~~ - Gustav Holmberg 
