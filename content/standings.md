@@ -81,7 +81,7 @@ Slutspelet kommer att vara en Double elimination, varje runda är Bo3. Högst ra
 | 27     | 09         | Tim Hansson 		     | |  | 3 | X | 6 | X | X | X | X |  |
 | 28     | 06         | Erik Johansson 	     | |  | X | X | X | X | X | X | 6 |  |
 | 29     | 03         | Björn Arnö 	         | |  | X | X | X | X | 3 | X | X |  |
-| 30     | 03         | Karl Kildén 	     | |  | X | X | X | X | X | X | 3 |  |
+| 30     | 03         | Karl Kildén 	       | |  | X | X | X | X | X | X | 3 |  |
 | 31     | 00         | Max Rosenberg 	     | |  | X | X | X | X | 0 | X | X |  |
 
 
