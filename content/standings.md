@@ -57,6 +57,7 @@ Slutspelet kommer att vara en Double elimination, varje runda är Bo3. Högst ra
 {{< table class="standing_tables" >}}
 | ##  | Ligapoäng | Namn | Poäng/v: |   	     | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |:-------:|:----------:|------------|-------------|--|---|---|---|---|---|---|---|---|
+|      |          | **TOP 8**  	   | |  |  |  |  |  |  |  |  |  |
 | **01**     | 45         | **Mattias Ljunge** 		   | |  | 9 | 5 | 6 | 3 | 3 | 3 | 9 | 7 |
 | **02**     | 44         | **Cim Knutsen** 		     | |  | 6 | 7 | 6 | 6 | 1 | 6 | 6 | 6 |
 | **03**     | 44         | **Jonis Bader** 		     | |  | 9 | 4 | 3 | 9 | 9 | 6 | 4 | X |
@@ -65,7 +66,7 @@ Slutspelet kommer att vara en Double elimination, varje runda är Bo3. Högst ra
 | **06**     | 40         | **Patric Broborn**		   | |  | X | X | 6 | 9 | 6 | 6 | 6 | 7 |
 | **07**     | 39         | **Gustav Holmberg** 	   | |  | 9 | X | 9 | X | 6 | 6 | 9 | X |
 | **08**     | 39         | **David Berg** 		       | |  | 6 | 6 | 9 | 3 | X | 6 | 6 | 3 |
-|      |          |  		   | |  |  |  |  |  |  |  |  |  |
+|      |          | TOP 9-31 		   | |  |  |  |  |  |  |  |  |  |
 | 09     | 34         | Erik Sjöström 		   | |  | 0 | 4 | 6 | 6 | 6 | 6 | 6 | X |
 | 10     | 31         | Olle Olsson	 	       | |  | X | 9 | 7 | 0 | 6 | 3 | 0 | 6 |
 | 11     | 29         | Michael Demmers 	   | |  | 6 | 5 | 3 | 3 | 6 | 0 | 3 | 3 |
