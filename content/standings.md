@@ -95,11 +95,9 @@ Slutspelet kommer att vara en Double elimination, varje runda är Bo3. Högst ra
 
 ****Relevanta TIEBREAKERS för top 8:****
 
-Cim Knutsen  OMW: 59,625
-Jonis Bader  OMW: 48,143
+Cim Knutsen  OMW: 59,625 vs Jonis Bader  OMW: 48,143
 
-Gustav Holmberg OMW: 61,6 
-David Berg      OMW: 56,333 
+Gustav Holmberg OMW: 61,6 vs David Berg   OMW: 56,333 
 
 OMW = Genomsnitt på samtliga OMW i från april-oktober under turneringen.
 
