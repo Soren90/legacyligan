@@ -1,9 +1,9 @@
 ---
-date: 2024-10-21T11:00:59-04:00
+date: 2025-11-01T11:00:59-04:00
 description: "Top 8 och priser"
-featured_image: "priser_1-4_sasong_2025.jpg"
+featured_image: "/images/priser_1-4_sasong_2025.jpg"
 tags: []
-title: "Top 8 och priser"
+title: "Top 8 + priser"
 disable_share: true
 ---
 
@@ -35,3 +35,5 @@ Spelföreningen LegacyLigisterna
 
 
   
+
+
