@@ -65,6 +65,7 @@ Slutspelet kommer att vara en Double elimination, varje runda är Bo3. Högst ra
 | **06**     | 40         | **Patric Broborn**		   | |  | X | X | 6 | 9 | 6 | 6 | 6 | 7 |
 | **07**     | 39         | **Gustav Holmberg** 	   | |  | 9 | X | 9 | X | 6 | 6 | 9 | X |
 | **08**     | 39         | **David Berg** 		       | |  | 6 | 6 | 9 | 3 | X | 6 | 6 | 3 |
+|      |          |  		   | |  |  |  |  |  |  |  |  |  |
 | 09     | 34         | Erik Sjöström 		   | |  | 0 | 4 | 6 | 6 | 6 | 6 | 6 | X |
 | 10     | 31         | Olle Olsson	 	       | |  | X | 9 | 7 | 0 | 6 | 3 | 0 | 6 |
 | 11     | 29         | Michael Demmers 	   | |  | 6 | 5 | 3 | 3 | 6 | 0 | 3 | 3 |
