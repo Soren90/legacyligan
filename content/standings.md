@@ -99,7 +99,7 @@ Cim Knutsen  OMW: 59,625 vs Jonis Bader  OMW: 48,143
 
 Gustav Holmberg OMW: 61,6 vs David Berg   OMW: 56,333 
 
-OMW = Genomsnitt på samtliga OMW i från april-oktober under turneringen.
+OMW = Genomsnitt på samtliga OMW under turneringen.
 
 
 
