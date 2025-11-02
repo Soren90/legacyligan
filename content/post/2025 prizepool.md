@@ -24,6 +24,7 @@ Naturligtvis är de fyra playsets stämplade så att ni har en extra anledning a
 
 
 {{< figure src="/images/priser_1-4_sasong_2025.jpg" >}}
+
 {{< figure src="/images/priser_5-8_sasong_2025.jpg" >}}
 
 
@@ -35,6 +36,7 @@ Spelföreningen LegacyLigisterna
 
 
   
+
 
 
 
