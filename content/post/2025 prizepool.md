@@ -1,17 +1,21 @@
 ---
 date: 2024-10-21T11:00:59-04:00
-description: "2025 Priser"
+description: "Top 8 och priser"
 featured_image: "priser_1-4_sasong_2025.jpg"
 tags: []
-title: "2025 Priser"
+title: "Top 8 och priser"
 disable_share: true
 ---
 
 #### Fina spelare förtjänar fina priser!
 
-Hej kära legacyligister!
+Stort grattis till Mattias, Cim, Jonis, Marin, Felix, Patric, Gustav och David!
 
-Här kommer en post om priser som top8:an av säsongen 2025 kommer att spela om. Liksom förra året är tanken att priserna utgörs av kort som ska vara användbara i Legacy. Priserna kommer ligga på åtta rutor och efter slutspelet får spelarna välja sina priser enligt ranglistan. 
+Våra hårt kämpande legacyligister som tagit sig in i top8 och kämpar om årets priser! 
+
+
+
+Liksom förra året är tanken att priserna utgörs av kort som ska vara användbara i Legacy. Priserna kommer ligga på åtta rutor och efter slutspelet får spelarna välja sina priser enligt ranglistan. 
 
 Tack vare den fantastiska uppslutningen från alla deltagare tävlar top8:an i år om en Underground Sea från Revised, två Bloodstained Mire från Onslaught, en Force of Will från Alliances, fyra Crop Rotation, fyra Mother of Runes, fyra Dark Ritual, fyra Dragon’s Rage Channeler samt en till dual-land från Revised (TBD).
 
@@ -27,6 +31,7 @@ Bästa hälsningar
   
 Spelföreningen LegacyLigisterna  
  
+
 
 
   
