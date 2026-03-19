@@ -9,7 +9,7 @@ menu:
 
 ### bakgrund
 
-Säsong 2 av Legacyligan presenteras av spelföreningen Legacyligisterna!
+Säsong 3 av Legacyligan presenteras av spelföreningen Legacyligisterna!
 
 Efter Legacyligan 2024 så valde vi att fortsätta driva ligan i föreningsform.
 
@@ -22,15 +22,16 @@ Vår tanke är att detta ska vara något som vi gör tillsammans i communityn. E
 
 Mars till oktober. 
 
-Sista torsdagen i månaden. (Förutom i maj. Då kör vi näst sista torsdagen istället p.g.a röd dag.) 
+Sista torsdagen i månaden. 
+(Förutom i April, då är det näst sista torsdagen p.g.a röd dag).
 
-
-27/3, 24/4, **22**/5, 26/6, 31/7, 28/8, 25/9, 30/10. 
+26/3, 23/4, 28/5, 25/6, 30/7, 27/8, 24/9, 29/10.
 
 Klockan 18:30 drar vi igång.
 
-
-Top 8 spelar lördagen den 15:e November. Double Elimination. Planerad start-tid är 11:00.
+Top 8 körs lördagen den 14:e November.
+Double Elimination. REL (To be determined). 
+Planerad start-tid är 11:00.
 
 ------
 
@@ -60,15 +61,14 @@ Anmälan: Betala oss och skriv in eventkoden i Companion-appen eller säg till o
 
 Pris: 130kr 
 
-(30kr går till Alara Games för lokalhyra, resten till prissupport och till andra eventuella utgifter samt eventuellt till buffert för nästa års liga)
+(30kr går till Alara Games för lokalhyra, resten går direkt tillbaka in i Legacyligans verksamhet, framför allt priser och minnesgåvor.)
 
 
 ...
 
 Vi vill ha **decklist** från varje speltillfälle så vi kan publicera på mtgtop8 och mtgdecks. Helst innan eventet drar igång så allt är löst. 
 
-Digital lista eller foto på leken skickas till Legacyligan@gmail.com 
-Handskriven lista funkar också.
+Digital lista skickas till Legacyligan@gmail.com (Andra lösningar enligt överenskommelse)
 
 ...
 
@@ -78,18 +78,10 @@ Frågor, funderingar eller tankar om livet? Joina vår [discord](https://discord
 ------
 
 ### prisbild 
-Förra året slogs vi om en Tundra och 2 Retro Scalding Tarns. Och när säsongen nästan var över så uppdaterades prispoolen med ännu fler priser baserat på deltagandet. 
 
-I år kommer vi att gå mer top-heavy på priserna! 
+Precis som tidigare planaerar vi att uppdaterade priserna baserat på deltagandet. 
 
-Vi börjar med följande, sedan får vi se hur det utvecklar sig. ;) 
-
-
-### Förstapris säsong #2 - En Underground Sea från Revised
-{{< figure src="/images/underground.jpeg" >}}
-
-### Andrapris säsong #2 - Ett par Bloodstained Mire från Onslaught
-{{< figure src="/images/bloodstained.jpeg" >}}
+I år röstade ni fram en Volcanic Island från Revised och ett par Misty Rainforest i Old Border. 
 
 
 ------
