@@ -43,9 +43,9 @@ Klockan 18:30 drar vi igång.
 ### inför top8-slutspel
 
 
-Top 8 körs lördagen den 14:e November.
+Top 8 körs lördagen den 14:e November.  
 Double Elimination. REL (To be determined). 
-Planerad start-tid är 11:00.
+  Planerad start-tid är 11:00.
 
 
 ------
