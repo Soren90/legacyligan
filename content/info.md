@@ -79,7 +79,7 @@ Frågor, funderingar eller tankar om livet? Joina vår [discord](https://discord
 
 ### prisbild 
 
-Precis som tidigare planaerar vi att uppdaterade priserna baserat på deltagandet. 
+Precis som tidigare planerar vi att uppdatera priserna baserat på deltagandet. 
 
 I år röstade ni fram en Volcanic Island från Revised och ett par Misty Rainforest i Old Border. 
 
