@@ -11,14 +11,8 @@ menu:
 
 HERE WE GOOOOOO!
 
-~~Sista torsdagen i månaden. (Förutom i april, då kör vi näst sista torsdagen.)~~ 
-
-~~27/3~~, ~~24/4~~, ~~22/5~~, ~~26/6~~, ~~31/7~~, ~~28/8~~, ~~25/9~~, ~~30/10~~. 
-
-~~Klockan 18:30 drar vi igång.~~
-
 Sista torsdagen i månaden från mars till oktober. 
-(Förutom i April, då är det näst sista torsdagen p.g.a röd dag).
+  (Förutom i April, då är det näst sista torsdagen p.g.a röd dag).
 
 **26/3**, 23/4, 28/5, 25/6, 30/7, 27/8, 24/9, 29/10.
 
@@ -80,4 +74,4 @@ Planerad start-tid är 11:00.
 
 ( X = Frånvarande )
 
-( Tiebreakers är endast inräknat i resultatet för top8. Nedanför top8 står lika poäng står i random ordning)
+
