@@ -14,7 +14,7 @@ HERE WE GOOOOOO!
 Sista torsdagen i månaden från mars till oktober. 
   (Förutom i April, då är det näst sista torsdagen p.g.a röd dag).
 
-~~26/3~~, **23/4**, 28/5, 25/6, 30/7, 27/8, 24/9, 29/10.
+~~26/3~~, ~~23/4~~, **28/5**, 25/6, 30/7, 27/8, 24/9, 29/10.
 
 Klockan 18:30 drar vi igång.
 
@@ -54,8 +54,8 @@ Double Elimination. REL (To be determined).
 
 ### Säsong 3
 {{< table class="standing_tables" >}}
-| ##  | Ligapoäng | Namn | Poäng/v: |   	     | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-|:-------:|:----------:|------------|-------------|--|---|---|---|---|---|---|---|---|
+| ##  | Ligapoäng | Namn | Poäng/v: |   	           | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+|:-------:|:----------:|---------------|----------|--|---|---|---|---|---|---|---|---|
 |01      |18          |Eric Nystrand   	        | |  | 9 | 9 |  |  |  |  |  |  |
 |02      |12          |Jonis Bader   	          | |  | 9 | 3 |  |  |  |  |  |  |
 |03      |12          |Cim Knutsen   	          | |  | 6 | 6 |  |  |  |  |  |  |
