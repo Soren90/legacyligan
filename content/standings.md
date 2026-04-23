@@ -56,24 +56,24 @@ Double Elimination. REL (To be determined).
 {{< table class="standing_tables" >}}
 | ##  | Ligapoäng | Namn | Poäng/v: |   	     | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |:-------:|:----------:|------------|-------------|--|---|---|---|---|---|---|---|---|
-|01      |9          |Jonis Bader   	   | |  | 9 |  |  |  |  |  |  |  |
-|02      |9          |Eric Nystrand   	   | |  | 9 |  |  |  |  |  |  |  |
-|03      |9          |Olle Lundvall   	   | |  | 9 |  |  |  |  |  |  |  |
-|04      |6          |Patric Broborn   	   | |  | 6 |  |  |  |  |  |  |  |
-|05      |6          |Gustav Holmberg   	   | |  | 6 |  |  |  |  |  |  |  |
-|06      |6          |Cim Knutsen   	   | |  | 6 |  |  |  |  |  |  |  |
-|07      |6          |Erik Sjöström   	   | |  | 6 |  |  |  |  |  |  |  |
-|08      |6          |David Berg   	   | |  | 6 |  |  |  |  |  |  |  |
-|09      |3          |Michael Demmers   	   | |  | 3 |  |  |  |  |  |  |  |
-|10      |3          |Alfons Myrvold Dinamarca  	   | |  | 3 |  |  |  |  |  |  |  |
-|11      |3          |Marin Jelica   	   | |  | 3 |  |  |  |  |  |  |  |
-|12      |3          |Jacob Gustafsson Lundin   	   | |  | 3 |  |  |  |  |  |  |  |
-|13      |3          |Olle Olsson   	   | |  | 3 |  |  |  |  |  |  |  |
-|14      |3          |Felix Lensing   	   | |  | 3 |  |  |  |  |  |  |  |
-|15      |3          |Henrik Månsson   	   | |  | 3 |  |  |  |  |  |  |  |
-|16      |3          |Cevin Berg   	   | |  | 3 |  |  |  |  |  |  |  |
-|17      |0          |Erik Johansson  	   | |  | 0 |  |  |  |  |  |  |  |
-
+|01      |18          |Eric Nystrand   	        | |  | 9 | 9 |  |  |  |  |  |  |
+|02      |12          |Jonis Bader   	          | |  | 9 | 3 |  |  |  |  |  |  |
+|03      |12          |Cim Knutsen   	          | |  | 6 | 6 |  |  |  |  |  |  |
+|04      |12          |Erik Sjöström   	        | |  | 6 | 6 |  |  |  |  |  |  |
+|05      |12          |Olle Olsson   	          | |  | 3 | 9 |  |  |  |  |  |  |
+|06      |09          |Olle Lundvall   	        | |  | 9 | X |  |  |  |  |  |  |
+|07      |09          |David Berg   	          | |  | 6 | 3 |  |  |  |  |  |  |
+|08      |09          |Michael Demmers   	      | |  | 3 | 6 |  |  |  |  |  |  |
+|09      |09          |Cevin Berg               | |  | 3 | 6 |  |  |  |  |  |  |
+|10      |06          |Felix Lensing   	        | |  | 3 | 3 |  |  |  |  |  |  |
+|11      |06          |Patric Broborn  	        | |  | 6 | X |  |  |  |  |  |  |
+|12      |06          |Gustav Holmberg   	      | |  | 6 | X |  |  |  |  |  |  |
+|13      |06          |Marin Jelica             | |  | 3 | 3 |  |  |  |  |  |  |
+|14      |03          |Alfons Myrvold Dinamarca | |  | 3 | X |  |  |  |  |  |  |
+|15      |03          |Jacob Gustafsson Lundin  | |  | 3 | X |  |  |  |  |  |  |
+|16      |03          |Henrik Månsson   	      | |  | 3 | 0 |  |  |  |  |  |  |
+|17      |00          |Peter Larsson    	      | |  | 0 | X |  |  |  |  |  |  |
+|18      |00          |Erik Johansson  	        | |  | 0 | X |  |  |  |  |  |  |
 
 
 
