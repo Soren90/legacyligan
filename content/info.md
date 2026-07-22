@@ -1,19 +1,19 @@
 ---
 title: "info"
 description: "när, var, hur och sånt "
-featured_image: '/images/legacyligan4.png'
+featured_image: '/images/test.png'
 menu:
   main:
     weight: 6
 ---
 
-### bakgrund
+### "Av communityt, för communityt."
 
-Säsong 3 av Legacyligan presenteras av spelföreningen Legacyligisterna!
+Legacyligan 2026 presenteras av spelföreningen [Legacyligisterna](https://www.legacyligan.se/ligisterna)!
 
-Efter Legacyligan 2024 så valde vi att fortsätta driva ligan i föreningsform.
+Tillsammans skapar vi ett återkommande event där vi hjälps åt och får allt att fungera bra. 
 
-Vår tanke är att detta ska vara något som vi gör tillsammans i communityn. Ett återkommande event där vi hjälps åt och tillsammans ser till att allt fungerar bra.
+[Läs mer om föreningen här.](https://www.legacyligan.se/ligisterna)
 
 
 ------
@@ -22,16 +22,17 @@ Vår tanke är att detta ska vara något som vi gör tillsammans i communityn. E
 
 Mars till oktober. 
 
-Sista torsdagen i månaden. 
-(Förutom i April, då är det näst sista torsdagen p.g.a röd dag).
+Sista torsdagen i månaden från mars till oktober. 
+  (Förutom i April, då var det näst sista torsdagen p.g.a röd dag).
 
-26/3, 23/4, 28/5, 25/6, 30/7, 27/8, 24/9, 29/10.
+~~26/3~~, ~~23/4~~, ~~28/5~~, ~~25/6~~, **30/7**, 27/8, 24/9, 29/10.
 
 Klockan 18:30 drar vi igång.
 
 Top 8 körs lördagen den 14:e November.
 Double Elimination. REL (To be determined). 
 Planerad start-tid är 11:00.
+
 
 ------
 
@@ -68,7 +69,7 @@ Pris: 130kr
 
 Vi vill ha **decklist** från varje speltillfälle så vi kan publicera på mtgtop8 och mtgdecks. Helst innan eventet drar igång så allt är löst. 
 
-Digital lista skickas till Legacyligan@gmail.com (Andra lösningar enligt överenskommelse)
+Länk till MTGDecks för att skicka in decklist postas i sociala kanaler. Digital lista kan även skickas till Legacyligan@gmail.com (Andra lösningar enligt överenskommelse)
 
 ...
 
@@ -100,6 +101,6 @@ Läs länkarna så kommer ni att bli bättre och gladare magic-spelare.
 
 Vi är här för att ha roligt och vill ha en inkluderande stämning. 
 
-Also: {{< figure src="/images/dont.webp" >}}
+Also: {{< figure src="/images/Hemsidebilder/dont.webp" >}}
 
 ------
