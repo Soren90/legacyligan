@@ -1,9 +1,9 @@
 ---
-title: "bounties "
+title: "bounties"
 description: "Små utmaningar som gör livet bättre.
 
 "
-featured_image: '/images/bounty1.png'
+featured_image: '/images/Hemsidebilder/bounty1.png'
 menu:
   main:
     weight: 9
@@ -11,6 +11,18 @@ menu:
 Var först. Var bäst. Claima din bounty innan någon annan tar den.
 
 ------
+
+
+ <div class="custom-box">
+  <h3>Hello from HTML!</h3>
+      <p>This content uses plain HTML inside a Markdown file.</p>
+  </div>
+
+#### WANTED: MOAR BOUNTIES!!!
+
+**Har du egna bounties du vill annonsera? Kort du vill att någon annan ska kunna vinna? Hör av dig så samverkar vi och lägger upp din bounty och din reward här.**
+
+______
 
 #### Aktuella bounties 
 
@@ -31,12 +43,6 @@ Var först. Var bäst. Claima din bounty innan någon annan tar den.
 #### Belöning?
 
 Snacka med Domaren. Stämmer din bounty med de som efterlyses kan du claima den och du får ett magic-kort som belöning. 
-
-______
-
-#### WANTED: MOAR BOUNTIES!!!
-
-**Har du egna bounties du vill annonsera? Kort du vill att någon annan ska kunna vinna? Hör av dig så samverkar vi och lägger upp din bounty och din reward här.**
 
 ______
 
