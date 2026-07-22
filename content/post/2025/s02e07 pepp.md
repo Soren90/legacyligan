@@ -1,0 +1,23 @@
+---
+date: 2025-09-19T11:00:59-04:00
+description: "Omgång 7 på torsdag!"
+featured_image: "/images/2025/lanalekbanner original.jpeg"
+tags: []
+title: "HEAR YE! HEAR YE!"
+disable_share: true
+---
+
+18:30 på torsdag så kör vi! Näst sista gången för i år.
+
+Dags att vässa lekarna och kamma in de där poängen så ni kämpar er in i top8!  
+
+Läs mer under info eller ställ frågor på discorden!
+
+Ses på Alara Games i Trollhättan! Kom kom!
+
+
+// Jonis
+
+<!--more-->
+
+{{< figure src="/images/2025/lanalekbanner original.jpeg" >}}
