@@ -1,4 +1,4 @@
-title = 'LEGACYLIGAN'
+title = 'LegacyLigan'
 baseURL = "https://legacyligan.se"
 theme = 'ananke'
 resourceDir = "../resources"
@@ -9,15 +9,13 @@ DefaultContentLanguage = "sv"
 sectionPagesMenu = "main"
 enableRobotsTXT = true
 
-[services.googleAnalytics]
-id = ''
 
 [pagination]
 pagerSize = 9 # this is set low for demonstrating with dummy content. Set to a higher number
 
 [languages]
   [languages.sv]
-    title = "LEGACYLIGAN.se"
+    title = "legacyligan"
     weight = 1
     contentDir = "content"
     # languageDirection = 'rtl' for Right-To-Left languages
