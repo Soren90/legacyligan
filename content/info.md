@@ -13,7 +13,7 @@ Legacyligan 2026 presenteras av spelföreningen [Legacyligisterna](https://www.l
 
 Tillsammans skapar vi ett återkommande event där vi hjälps åt och får allt att fungera bra. 
 
-[Läs mer om föreningen här.](https://www.legacyligan.se/post/ligisterna)
+[Läs mer om föreningen här.](-https://www.legacyligan.se/post/ligisterna)
 
 
 ------
