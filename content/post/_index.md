@@ -2,6 +2,6 @@
 title: "arkiv"
 date: 2017-03-02T12:00:00-05:00
 description: "nyheter och artiklar"
-featured_image: '/images/Hemsidebilder/Logga 1.jpg.png'
+featured_image: '/images/Hemsidebilder/Logga 1.jpg'
 ---
 Blicka bakåt i tiden:
