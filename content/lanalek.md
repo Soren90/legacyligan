@@ -2,6 +2,7 @@
 title: "låna lek?"
 description: "Hallå! Du där! Låna lek?"
 featured_image: '/images/Hemsidebilder/lanalek.jpeg'
+cover_dimming_class: "bg-black-40"
 menu:
   main:
     weight: 10
