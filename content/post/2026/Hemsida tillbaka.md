@@ -7,16 +7,18 @@ title: "legacyligan.se lever igen!"
 disable_share: true
 ---
 
-Vi är tillbaka! 
+Vi är tillbaka!
 
-Anledningen till att legacyligan.se legat nere så länge är att den förra ägaren hellre lät ligans hemsida vara nere i 2 månader och sedan släppas lös för allmänheten (med stor risk att "automatiskt" plockas upp av domänpirater) än att förnya eller överlåta domänen till oss.
+Anledningen till att legacyligan.se legat nere sedan mitten av maj är att den förra ägaren inte förnyade ägarskapet.
 
-Men innan piraterna svepte in så lyckades vi fånga upp domänen.   
+Om inte det sker på cirka 2 månader så släpps domänen fritt och kan köpas av vem som helst. 
 
-TL;DR
-Hemsidan är tillbaka! (Och på torsdag kör vi igen! Ses då!)
+Som tur är lyckades vi fånga upp domänen innan någon annan hann före.
 
-/ Föreningen Legacyligisterna
+/ Föreningen Legacyligisterna   
+
+(På torsdag kör vi igen! Ses då!)
+
 
 {{< figure src="/images/2026/tillbaka.png" >}}
 
