@@ -12,12 +12,6 @@ Var först. Var bäst. Claima din bounty innan någon annan tar den.
 
 ------
 
-
- <div class="custom-box">
-  <h3>Hello from HTML!</h3>
-      <p>This content uses plain HTML inside a Markdown file.</p>
-  </div>
-
 #### WANTED: MOAR BOUNTIES!!!
 
 **Har du egna bounties du vill annonsera? Kort du vill att någon annan ska kunna vinna? Hör av dig så samverkar vi och lägger upp din bounty och din reward här.**
