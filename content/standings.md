@@ -2,7 +2,6 @@
 title: "standings"
 description: "2026"
 featured_image: '/images/Hemsidebilder/balance.png'
-cover_dimming_class = "bg-black-50"
 menu:
   main:
     weight: 7
