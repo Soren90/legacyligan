@@ -1,8 +1,6 @@
 ---
 title: "bounties"
-description: "Små utmaningar som gör livet bättre.
-
-"
+description: "Små utmaningar som gör livet bättre."
 featured_image: '/images/Hemsidebilder/bounty1.png'
 menu:
   main:
