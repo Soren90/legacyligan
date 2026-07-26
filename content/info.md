@@ -2,7 +2,6 @@
 title: "info"
 description: "när, var, hur och sånt "
 featured_image: '/images/test.png'
-cover_dimming_class: "bg-black-50"
 menu:
   main:
     weight: 6
