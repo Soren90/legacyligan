@@ -1,4 +1,4 @@
-title = 'LegacyLigan'
+title = 'Legacyligan'
 baseURL = "https://legacyligan.se"
 theme = 'ananke'
 resourceDir = "../resources"
