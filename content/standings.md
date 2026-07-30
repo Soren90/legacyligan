@@ -55,31 +55,32 @@ Double Elimination. REL (To be determined).
 
 ### Säsong 3
 {{< table class="standing_tables" >}}
-| ##  | Ligapoäng | Namn | Poäng/v: |   	     | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-|:-------:|:----------:|---------------|----------|--|---|---|---|---|---|---|---|---|
-|01      |27          |Eric Nystrand   	        | |  | 9 | 9 | 3 | 6 |  |  |  |  |
-|02      |25          |Erik Sjöström   	        | |  | 6 | 6 | 9 | 4 |  |  |  |  |
-|03      |21          |Cim Knutsen   	        | |  | 6 | 6 | 6 | 3 |  |  |  |  |
-|04      |21          |David Berg   	        | |  | 6 | 3 | 6 | 6 |  |  |  |  |
-|05      |21          |Michael Demmers          | |  | 3 | 6 | 6 | 6 |  |  |  |  |
-|06      |19          |Jonis Bader   	        | |  | 9 | 3 | X | 7 |  |  |  |  |
-|07      |16          |Olle Olsson   	        | |  | 3 | 9 | X | 4 |  |  |  |  |
-|08      |15          |Cevin Berg               | |  | 3 | 6 | 3 | 3 |  |  |  |  |
-|09      |15          |Felix Lensing   	        | |  | 3 | 3 | 6 | 3 |  |  |  |  |
-|10      |15          |Patric Broborn  	        | |  | 6 | X | 6 | 3 |  |  |  |  |
-|11      |15          |Gustav Holmberg          | |  | 6 | X | X | 9 |  |  |  |  |
-|12      |12          |Dordje Grahovac          | |  | X | X | 6 | 6 |  |  |  |  |
-|13      |10          |Marin Jelica             | |  | 3 | 3 | 0 | 4 |  |  |  |  |
-|14      |09          |Olle Lundvall   	        | |  | 9 | X | X | 0 |  |  |  |  |
-|15      |06          |Jonathan Westergren  	| |  | X | X | 6 | 0 |  |  |  |  |
-|16      |06          |Martin Hektor       	| |  | X | X | X | 6 |  |  |  |  |
-|17      |03          |Alfons Myrvold Dinamarca | |  | 3 | X | X | X |  |  |  |  |
-|18      |03          |Jacob Gustafsson Lundin  | |  | 3 | X | X | X |  |  |  |  |
-|19      |03          |Henrik Månsson   	| |  | 3 | 0 | X | X |  |  |  |  |
-|20      |03          |Erik Johansson  	        | |  | 0 | X | 3 | X |  |  |  |  |
-|21      |03          |Emil Johansson       	| |  | X | X | 3 | X |  |  |  |  |
-|22      |00          |Peter Larsson    	| |  | 0 | X | X | X |  |  |  |  |
-
+| ##  | Ligapoäng | Namn | Poäng/v: |   	               | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+|:-------:|:----------:|----------------------------|-|--|---|---|---|---|---|---|---|---|
+|01      |33          |Eric Nystrand   	            | |  | 9 | 9 | 3 | 6 | 6 |  |  |  |
+|02      |31          |Erik Sjöström   	            | |  | 6 | 6 | 9 | 4 | 6 |  |  |  |
+|03      |27          |Cim Knutsen   	              | |  | 6 | 6 | 6 | 3 | 6 |  |  |  |
+|04      |27          |David Berg   	              | |  | 6 | 3 | 6 | 6 | 6 |  |  |  |
+|05      |27          |Michael Demmers              | |  | 3 | 6 | 6 | 6 | 6 |  |  |  |
+|06      |24          |Gustav Holmberg              | |  | 6 | X | X | 9 | 9 |  |  |  |
+|07      |21          |Cevin Berg                   | |  | 3 | 6 | 3 | 3 | 6 |  |  |  |
+|08      |19          |Jonis Bader   	              | |  | 9 | 3 | X | 7 | 0 |  |  |  |
+|09      |19          |Olle Olsson   	              | |  | 3 | 9 | X | 4 | 3 |  |  |  |
+|10      |19          |Patric Broborn  	            | |  | 6 | X | 6 | 3 | 4 |  |  |  |
+|11      |15          |Felix Lensing   	            | |  | 3 | 3 | 6 | 3 | X |  |  |  |
+|12      |14          |Marin Jelica                 | |  | 3 | 3 | 0 | 4 | 4 |  |  |  |
+|13      |12          |Dordje Grahovac              | |  | X | X | 6 | 6 | X |  |  |  |
+|14      |12          |Olle Lundvall   	            | |  | 9 | X | X | 0 | 3 |  |  |  |
+|15      |12          |Jonathan Westergren        	| |  | X | X | 6 | 0 | 6 |  |  |  |
+|16      |12          |Alfons Myrvold Dinamarca     | |  | 3 | X | X | X | 9 |  |  |  |
+|17      |06          |Martin Hektor       	        | |  | X | X | X | 6 | X |  |  |  |
+|18      |06          |Erik Johansson  	            | |  | 0 | X | 3 | X | 3 |  |  |  |
+|19      |03          |Jacob Gustafsson Lundin      | |  | 3 | X | X | X | X |  |  |  |
+|20      |03          |Henrik Månsson   	          | |  | 3 | 0 | X | X | X |  |  |  |
+|21      |03          |Emil Johansson       	      | |  | X | X | 3 | X | X |  |  |  |
+|22      |03          |Giacomo Colombo    	        | |  | X | X | X | X | 3 |  |  |  |
+|23      |00          |Peter Larsson    	          | |  | 0 | X | X | X | X |  |  |  |
+|24      |00          |Valter Lundström Gustafsson  | |  | X | X | X | X | 0 |  |  |  |
 
 
 
