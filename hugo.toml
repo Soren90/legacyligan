@@ -28,7 +28,7 @@ pagerSize = 9 # this is set low for demonstrating with dummy content. Set to a h
 [params]
   text_color = ""
   author = ""
-  favicon = "/images/favicon 3.svg"
+  favicon = "/images/favicon.svg"
   site_logo = ""
   description = "Legacy varje månad"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
