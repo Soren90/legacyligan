@@ -10,7 +10,7 @@ menu:
 
 2026
 
-HERE WE GOOOOOO!
+HERE WE GOOOOOO!!!
 
 Sista torsdagen i månaden från mars till oktober. 
   (Förutom i April, då var det näst sista torsdagen p.g.a röd dag).
