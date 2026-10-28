@@ -11,7 +11,7 @@ disable_share: true
 
 Säkra din top8 plats! 
 Gör ditt bästa för att sätta käppar i hjulet för din ärkefiende!
-Eller kom helt enkelt förbi för att ha en kul stund med dina legacy kompisar oavsett hur det går. 
+Eller kom helt enkelt förbi för att ha en kul stund med dina legacykompisar oavsett hur det går. 
 
 Läs mer under info eller ställ frågor på discorden!
 
