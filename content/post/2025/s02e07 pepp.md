@@ -1,22 +1,28 @@
 ---
-date: 2025-09-19T11:00:59-04:00
-description: "Omgång 7 på torsdag!"
+date: 2026-10-26T11:00:59-04:00
+description: "Säsongens sista LL!"
 featured_image: "/images/2025/lanalekbanner original.jpeg"
 tags: []
 title: "HEAR YE! HEAR YE!"
 disable_share: true
 ---
 
-18:30 på torsdag så kör vi! Näst sista gången för i år.
+18:30 på torsdag så kör vi! Årets sista omgång. 
 
-Dags att vässa lekarna och kamma in de där poängen så ni kämpar er in i top8!  
+Säkra din top8 plats! 
+Gör ditt bästa för att sätta käppar i hjulet för din ärkefiende!
+Eller kom helt enkelt förbi för att ha en kul stund med dina legacy kompisar oavsett hur det går. 
 
 Läs mer under info eller ställ frågor på discorden!
 
 Ses på Alara Games i Trollhättan! Kom kom!
 
 
-// Jonis
+
+// Legacyligisterna
+
+
+P.S: I november är det slutspel. Kom förbi och heja!
 
 <!--more-->
 
