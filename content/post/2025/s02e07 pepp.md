@@ -1,5 +1,5 @@
 ---
-date: 2026-10-26T11:00:59-04:00
+date: 2025-10-26T11:00:59-04:00
 description: "Säsongens sista LL!"
 featured_image: "/images/2025/lanalekbanner original.jpeg"
 tags: []
