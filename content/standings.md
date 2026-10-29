@@ -7,17 +7,17 @@ menu:
   main:
     weight: 7
 ---
-
-2026
+SLUTSPELET ÄR HÄÄÄÄR!
+~~2026
 
 HERE WE GOOOOOO!!!
 
 Sista torsdagen i månaden från mars till oktober. 
   (Förutom i April, då var det näst sista torsdagen p.g.a röd dag).
 
-~~26/3~~, ~~23/4~~, ~~28/5~~, ~~25/6~~, ~~30/7~~, ~~27/8~~, ~~24/9~~, **29/10**.
+~~26/3~~, ~~23/4~~, ~~28/5~~, ~~25/6~~, ~~30/7~~, ~~27/8~~, ~~24/9~~, ~~29/10~~
 
-Klockan 18:30 drar vi igång.
+Klockan 18:30 drar vi igång.~~
 
 
 
@@ -57,32 +57,32 @@ Double Elimination. REL (To be determined).
 {{< table class="standing_tables" >}}
 | ##  | Ligapoäng | Namn | Poäng/v: |   	               | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |:-------:|:----------:|----------------------------|-|--|---|---|---|---|---|---|---|---|
-|01      |45          |Michael Demmers              | |  | 3 | 6 | 6 | 6 | 6 | 9 | 9 |  |
-|02      |42          |Eric Nystrand   	            | |  | 9 | 9 | 3 | 6 | 6 | 6 | 3 |  |
-|03      |39          |Cim Knutsen   	              | |  | 6 | 6 | 6 | 3 | 6 | 6 | 6 |  |
-|04      |39          |Gustav Holmberg              | |  | 6 | X | X | 9 | 9 | 9 | 6 |  |
-|05      |36          |David Berg   	              | |  | 6 | 3 | 6 | 6 | 6 | 3 | 6 |  |
-|06      |31          |Erik Sjöström   	            | |  | 6 | 6 | 9 | 4 | 6 | X | X |  |
-|07      |30          |Cevin Berg                   | |  | 3 | 6 | 3 | 3 | 6 | 3 | 6 |  |
-|08      |29          |Patric Broborn  	            | |  | 6 | X | 6 | 3 | 4 | 3 | 7 |  |
-|09      |24          |Olle Lundvall   	            | |  | 9 | X | X | 0 | 3 | 6 | 6 |  |
-|10      |22          |Jonis Bader   	              | |  | 9 | 3 | X | 7 | 0 | 3 | X |  |
-|11      |22          |Olle Olsson   	              | |  | 3 | 9 | X | 4 | 3 | 3 | X |  |
-|12      |21          |Felix Lensing   	            | |  | 3 | 3 | 6 | 3 | X | 6 | 0 |  |
-|13      |20          |Jonathan Westergren        	| |  | X | X | 6 | 0 | 6 | 4 | 4 |  |
-|14      |18          |Dordje Grahovac              | |  | X | X | 6 | 6 | X | 6 | X |  |
-|15      |18          |Marin Jelica                 | |  | 3 | 3 | 0 | 4 | 4 | 1 | 3 |  |
-|16      |18          |Alfons Myrvold Dinamarca     | |  | 3 | X | X | X | 9 | X | 6 |  |
-|17      |06          |Markus Nordin                | |  | X | X | X | X | X | 6 | X |  |
-|18      |06          |Erik Johansson  	            | |  | 0 | X | 3 | X | 3 | X | X |  |
-|19      |06          |Martin Hektor       	        | |  | X | X | X | 6 | X | X | X |  |
-|20      |03          |Valter Lundström Gustafsson  | |  | X | X | X | X | 0 | 3 | 0 |  |
-|21      |03          |Max Risberg                  | |  | X | X | X | X | X | 3 | X |  |
-|22      |03          |Jacob Gustafsson Lundin      | |  | 3 | X | X | X | X | X | X |  |
-|23      |03          |Henrik Månsson   	          | |  | 3 | 0 | X | X | X | X | X |  |
-|24      |03          |Emil Johansson       	      | |  | X | X | 3 | X | X | X | X |  |
-|25      |03          |Giacomo Colombo    	        | |  | X | X | X | X | 3 | X | X |  |
-|26      |00          |Peter Larsson    	          | |  | 0 | X | X | X | X | X | X |  |
+|01      |51          |Michael Demmers              | |  | 3 | 6 | 6 | 6 | 6 | 9 | 9 | 6 |
+|02      |48          |Eric Nystrand   	            | |  | 9 | 9 | 3 | 6 | 6 | 6 | 3 | 6 |
+|03      |32          |Cim Knutsen   	              | |  | 6 | 6 | 6 | 3 | 6 | 6 | 6 | 3 |
+|04      |39          |Gustav Holmberg              | |  | 6 | X | X | 9 | 9 | 9 | 6 | X |
+|05      |37          |David Berg   	              | |  | 6 | 3 | 6 | 6 | 6 | 3 | 6 | 1 |
+|06      |33          |Cevin Berg                   | |  | 3 | 6 | 3 | 3 | 6 | 3 | 6 | 3 |
+|07      |33          |Olle Lundvall   	            | |  | 9 | X | X | 0 | 3 | 6 | 6 | 9 |
+|08      |32          |Patric Broborn  	            | |  | 6 | X | 6 | 3 | 4 | 3 | 7 | 3 |
+|09      |31          |Olle Olsson   	              | |  | 3 | 9 | X | 4 | 3 | 3 | X | X |
+|10      |31          |Erik Sjöström   	            | |  | 6 | 6 | 9 | 4 | 6 | X | X | 9 |
+|11      |28          |Jonis Bader   	              | |  | 9 | 3 | X | 7 | 0 | 3 | X | 6 |
+|12      |24          |Felix Lensing   	            | |  | 3 | 3 | 6 | 3 | X | 6 | 0 | 3 |
+|13      |24          |Alfons Myrvold Dinamarca     | |  | 3 | X | X | X | 9 | X | 6 | 6 |
+|14      |21          |Marin Jelica                 | |  | 3 | 3 | 0 | 4 | 4 | 1 | 3 | 3 |
+|15      |20          |Jonathan Westergren        	| |  | X | X | 6 | 0 | 6 | 4 | 4 | X |
+|16      |19          |Dordje Grahovac              | |  | X | X | 6 | 6 | X | 6 | X | 1 |
+|27      |06          |Jacob Gustafsson Lundin      | |  | 3 | X | X | X | X | X | X | 3 |
+|18      |06          |Markus Nordin                | |  | X | X | X | X | X | 6 | X | X |
+|19      |06          |Erik Johansson  	            | |  | 0 | X | 3 | X | 3 | X | X | X |
+|20      |06          |Martin Hektor       	        | |  | X | X | X | 6 | X | X | X | X |
+|21      |03          |Valter Lundström Gustafsson  | |  | X | X | X | X | 0 | 3 | 0 | X |
+|22      |03          |Max Risberg                  | |  | X | X | X | X | X | 3 | X | X |
+|23      |03          |Henrik Månsson   	          | |  | 3 | 0 | X | X | X | X | X | X |
+|24      |03          |Emil Johansson       	      | |  | X | X | 3 | X | X | X | X | X |
+|25      |03          |Giacomo Colombo    	        | |  | X | X | X | X | 3 | X | X | X |
+|26      |00          |Peter Larsson    	          | |  | 0 | X | X | X | X | X | X | X |
 
 
 {{< /table >}}
