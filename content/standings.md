@@ -89,4 +89,9 @@ Double Elimination. REL (To be determined).
 
 ( X = Frånvarande )
 
+Relevanta TIEBREAKERS för top 8:
+
+Cevin Berg OMW: 56.875 vs Olle Lundvall OMW: 53.177
+
+OMW = Genomsnitt på samtliga OMW under turneringen. 
 
