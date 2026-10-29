@@ -8,16 +8,17 @@ menu:
     weight: 7
 ---
 SLUTSPELET ÄR HÄÄÄÄR!
-~~2026
 
-HERE WE GOOOOOO!!!
+~~2026~~
 
-Sista torsdagen i månaden från mars till oktober. 
-  (Förutom i April, då var det näst sista torsdagen p.g.a röd dag).
+~~HERE WE GOOOOOO!!!~~
+
+~~Sista torsdagen i månaden från mars till oktober. 
+  (Förutom i April, då var det näst sista torsdagen p.g.a röd dag).~~
 
 ~~26/3~~, ~~23/4~~, ~~28/5~~, ~~25/6~~, ~~30/7~~, ~~27/8~~, ~~24/9~~, ~~29/10~~
 
-Klockan 18:30 drar vi igång.~~
+~~Klockan 18:30 drar vi igång.~~
 
 
 
