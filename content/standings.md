@@ -60,14 +60,14 @@ Double Elimination. REL (To be determined).
 |:-------:|:----------:|----------------------------|-|--|---|---|---|---|---|---|---|---|
 |01      |51          |Michael Demmers              | |  | 3 | 6 | 6 | 6 | 6 | 9 | 9 | 6 |
 |02      |48          |Eric Nystrand   	            | |  | 9 | 9 | 3 | 6 | 6 | 6 | 3 | 6 |
-|03      |32          |Cim Knutsen   	              | |  | 6 | 6 | 6 | 3 | 6 | 6 | 6 | 3 |
+|03      | 42          |Cim Knutsen   	              | |  | 6 | 6 | 6 | 3 | 6 | 6 | 6 | 3 |
 |04      |39          |Gustav Holmberg              | |  | 6 | X | X | 9 | 9 | 9 | 6 | X |
 |05      |37          |David Berg   	              | |  | 6 | 3 | 6 | 6 | 6 | 3 | 6 | 1 |
 |06      |33          |Cevin Berg                   | |  | 3 | 6 | 3 | 3 | 6 | 3 | 6 | 3 |
 |07      |33          |Olle Lundvall   	            | |  | 9 | X | X | 0 | 3 | 6 | 6 | 9 |
 |08      |32          |Patric Broborn  	            | |  | 6 | X | 6 | 3 | 4 | 3 | 7 | 3 |
-|09      |31          |Olle Olsson   	              | |  | 3 | 9 | X | 4 | 3 | 3 | X | X |
-|10      |31          |Erik Sjöström   	            | |  | 6 | 6 | 9 | 4 | 6 | X | X | 9 |
+|09      |31          |Olle Olsson   	              | |  | 3 | 9 | X | 4 | 3 | 3 | X | 9 |
+|10      |31          |Erik Sjöström   	            | |  | 6 | 6 | 9 | 4 | 6 | X | X | X |
 |11      |28          |Jonis Bader   	              | |  | 9 | 3 | X | 7 | 0 | 3 | X | 6 |
 |12      |24          |Felix Lensing   	            | |  | 3 | 3 | 6 | 3 | X | 6 | 0 | 3 |
 |13      |24          |Alfons Myrvold Dinamarca     | |  | 3 | X | X | X | 9 | X | 6 | 6 |
