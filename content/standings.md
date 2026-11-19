@@ -7,7 +7,7 @@ menu:
   main:
     weight: 7
 ---
-SLUTSPELET ÄR HÄÄÄÄR!
+SLUTSPELET ÄR HÄÄÄÄR!!!
 
 ~~2026~~
 
@@ -60,7 +60,7 @@ Double Elimination. REL (To be determined).
 |:-------:|:----------:|----------------------------|-|--|---|---|---|---|---|---|---|---|
 |01      |51          |Michael Demmers              | |  | 3 | 6 | 6 | 6 | 6 | 9 | 9 | 6 |
 |02      |48          |Eric Nystrand   	            | |  | 9 | 9 | 3 | 6 | 6 | 6 | 3 | 6 |
-|03      | 42          |Cim Knutsen   	              | |  | 6 | 6 | 6 | 3 | 6 | 6 | 6 | 3 |
+|03      |42          |Cim Knutsen   	              | |  | 6 | 6 | 6 | 3 | 6 | 6 | 6 | 3 |
 |04      |39          |Gustav Holmberg              | |  | 6 | X | X | 9 | 9 | 9 | 6 | X |
 |05      |37          |David Berg   	              | |  | 6 | 3 | 6 | 6 | 6 | 3 | 6 | 1 |
 |06      |33          |Cevin Berg                   | |  | 3 | 6 | 3 | 3 | 6 | 3 | 6 | 3 |
